@@ -1,0 +1,2344 @@
+from,to,anno,tipo,sigla_prov_from,cod_prov_from,sigla_prov_to,cod_prov_to,data_evento
+006113,006113,2025,CD-Cambio denominazione,AL,006,AL,006,10/10/2025
+090001,113001,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090002,113003,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090003,112001,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090004,112002,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090005,112003,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090006,113004,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090007,112004,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090008,112005,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090009,113006,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090010,112006,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090011,112007,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090012,112008,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090013,112009,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090014,113007,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090015,112010,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090016,112011,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090017,113008,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090018,112012,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090019,112013,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090020,112014,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090021,113010,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090022,112015,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090023,112016,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090024,112017,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090025,112018,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090026,112019,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090027,112020,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090028,112022,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090029,112023,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090030,112024,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090031,112025,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090032,112026,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090033,112027,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090034,112028,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090035,113012,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090036,113014,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090037,113015,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090038,112029,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090039,112030,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090040,112031,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090041,113016,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090042,112032,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090043,112033,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090044,112034,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090045,112035,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090046,112036,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090047,113017,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090048,112037,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090049,113018,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090050,112038,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090051,112039,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090052,112040,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090053,112041,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090054,113020,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090055,112042,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090056,112043,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090057,112044,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090058,112045,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090059,112046,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090060,112047,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090061,112048,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090062,113002,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090063,113022,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090064,112050,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090065,112051,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090066,112052,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090067,112053,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090068,112054,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090069,112055,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090070,113025,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090071,112058,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090072,112059,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090073,112060,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090074,113026,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090075,112061,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090076,112062,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090077,112063,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090078,112066,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090079,112064,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090080,113024,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090081,113005,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090082,112065,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090083,113011,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090084,113013,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090085,113023,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090086,112057,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090087,112049,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090088,112021,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090089,112056,2025,RN-Rinumerazione del codice statistico,SS,090,SS,312,17/07/2025
+090090,113019,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090091,113009,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+090092,113021,2025,AP-Cambio appartenenza Provincia,SS,090,OT,113,17/07/2025
+091001,114001,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091002,116001,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091003,114002,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091004,114003,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091005,116002,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091006,116003,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091007,114004,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091008,114005,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091009,114006,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091010,114007,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091011,114008,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091012,114009,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091016,114010,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091017,114011,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091018,114012,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091019,116005,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091024,114013,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091025,114014,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091026,116006,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091027,114015,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091028,114016,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091031,116007,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091032,116008,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091033,114017,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091035,116009,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091037,116010,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091038,114018,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091039,116011,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091040,114019,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091041,114020,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091042,116012,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091043,114022,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091044,114023,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091046,114024,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091047,114025,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091050,114026,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091051,114027,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091055,114028,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091056,114029,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091057,114030,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091058,114031,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091059,114032,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091060,114033,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091061,114034,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091062,114035,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091063,114036,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091064,114037,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091066,114038,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091067,114039,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091068,114040,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091069,116013,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091070,114041,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091071,114042,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091072,116014,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091073,114043,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091077,114044,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091083,114046,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091084,114047,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091085,114048,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091086,114049,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091088,116015,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091089,116016,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091090,114050,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091091,114051,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091093,114052,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091094,114053,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+091095,116017,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091097,116018,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091098,116019,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091099,116020,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091100,116021,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091101,116022,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091103,116004,2025,AP-Cambio appartenenza Provincia,NU,091,OG,116,17/07/2025
+091104,114021,2025,RN-Rinumerazione del codice statistico,NU,091,NU,114,17/07/2025
+092003,118002,2025,RN-Rinumerazione del codice statistico,CA,292,CA,318,17/07/2025
+092009,118006,2025,RN-Rinumerazione del codice statistico,CA,292,CA,318,17/07/2025
+092011,118007,2025,RN-Rinumerazione del codice statistico,CA,292,CA,318,17/07/2025
+092015,118009,2025,RN-Rinumerazione del codice statistico,CA,292,CA,318,17/07/2025
+092037,118026,2025,RN-Rinumerazione del codice statistico,CA,292,CA,318,17/07/2025
+092050,118037,2025,RN-Rinumerazione del codice statistico,CA,292,CA,318,17/07/2025
+092051,118038,2025,RN-Rinumerazione del codice statistico,CA,292,CA,318,17/07/2025
+092066,118047,2025,RN-Rinumerazione del codice statistico,CA,292,CA,318,17/07/2025
+092068,118048,2025,RN-Rinumerazione del codice statistico,CA,292,CA,318,17/07/2025
+092074,118053,2025,RN-Rinumerazione del codice statistico,CA,292,CA,318,17/07/2025
+092075,118054,2025,RN-Rinumerazione del codice statistico,CA,292,CA,318,17/07/2025
+092080,118058,2025,RN-Rinumerazione del codice statistico,CA,292,CA,318,17/07/2025
+092090,118064,2025,RN-Rinumerazione del codice statistico,CA,292,CA,318,17/07/2025
+092099,118066,2025,RN-Rinumerazione del codice statistico,CA,292,CA,318,17/07/2025
+092105,118039,2025,RN-Rinumerazione del codice statistico,CA,292,CA,318,17/07/2025
+092108,118014,2025,RN-Rinumerazione del codice statistico,CA,292,CA,318,17/07/2025
+092109,118028,2025,RN-Rinumerazione del codice statistico,CA,292,CA,318,17/07/2025
+095001,115001,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095002,115002,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095003,115003,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095004,115004,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095005,115005,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095006,115006,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095007,115007,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095008,115008,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095009,115009,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095010,115010,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095011,115011,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095012,115012,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095013,115013,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095014,115014,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095015,115015,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095016,115016,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095017,115018,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095018,115019,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095019,115020,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095020,115023,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095021,115024,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095022,115025,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095023,115026,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095024,115027,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095025,115030,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095026,115031,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095027,115032,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095028,115034,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095029,115035,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095030,115037,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095031,115038,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095032,115039,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095033,115040,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095034,115041,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095035,115042,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095036,115043,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095037,115044,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095038,115045,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095039,115046,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095040,115047,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095041,115048,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095042,115049,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095043,115050,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095044,115051,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095045,115053,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095046,115054,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095047,115056,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095048,115082,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095049,115057,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095050,115055,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095051,115058,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095052,115059,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095053,115060,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095054,115061,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095055,115062,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095056,115063,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095057,115064,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095058,115066,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095059,115067,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095060,115068,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095061,115069,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095062,115071,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095063,115072,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095064,115074,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095065,115075,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095066,115077,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095067,115078,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095068,115079,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095069,115080,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095070,115081,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095071,115084,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095072,115085,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095073,115083,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095074,115086,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095075,115087,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095076,115065,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095077,115021,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095078,115070,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095079,115017,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095080,115022,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095082,115028,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095083,115029,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095084,115033,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095085,115036,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095086,115052,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095087,115073,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+095088,115076,2025,RN-Rinumerazione del codice statistico,OR,095,OR,115,17/07/2025
+111001,117001,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111002,118001,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111003,118003,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111004,118004,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111005,117002,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111006,119001,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111007,118005,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111008,119002,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111009,119003,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111010,119004,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111011,118008,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111012,117003,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111013,118010,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111014,118011,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111015,118012,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111016,119005,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111017,118013,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111018,118015,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111019,118016,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111020,118017,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111021,119006,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111022,117004,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111023,118018,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111024,117005,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111025,118019,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111026,118020,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111027,117006,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111028,119007,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111029,118021,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111030,119008,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111031,117007,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111032,118022,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111033,118023,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111034,117008,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111035,119009,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111036,118024,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111037,117009,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111038,117010,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111039,118025,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111040,119010,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111041,118027,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111042,118029,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111043,119011,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111044,119012,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111045,118030,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111046,118031,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111047,118032,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111048,118033,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111049,119013,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111050,118034,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111051,118035,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111052,117011,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111053,117012,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111054,119014,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111055,118036,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111056,119015,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111057,119016,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111058,118040,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111059,117013,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111060,118041,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111061,118042,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111062,117014,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111063,119017,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111064,118043,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111065,118044,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111066,118045,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111067,117015,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111068,119018,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111069,118046,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111070,119019,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111071,119020,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111072,117016,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111073,117017,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111074,118049,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111075,118050,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111076,118051,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111077,117018,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111078,117019,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111079,118052,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111080,117020,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111081,116023,2025,AP-Cambio appartenenza Provincia,SU,111,OG,116,17/07/2025
+111082,114045,2025,AP-Cambio appartenenza Provincia,SU,111,NU,114,17/07/2025
+111083,117021,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111084,118056,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111085,118057,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111086,118059,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111087,118060,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111088,118061,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111089,119024,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111090,119021,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111091,117022,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111092,117023,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111093,118063,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111094,117024,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111095,118065,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111096,117025,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111097,117026,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111098,119022,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111099,118067,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111100,117027,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111101,117028,2025,AP-Cambio appartenenza Provincia,SU,111,VS,117,17/07/2025
+111102,119023,2025,AP-Cambio appartenenza Provincia,SU,111,CI,119,17/07/2025
+111103,118068,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111104,118069,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111105,118070,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111106,118071,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+111107,118072,2025,AP-Cambio appartenenza Provincia,SU,111,CA,318,17/07/2025
+021011,021111,2025,CE-Cessione territorio,BZ,021,BZ,021,12/07/2025
+021111,021011,2025,AQ-Acquisizione territorio,BZ,021,BZ,021,12/07/2025
+083100,083100,2025,CD-Cambio denominazione,ME,283,ME,283,13/06/2025
+015125,015173,2024,AQ-Acquisizione territorio,MI,215,MI,215,10/12/2024
+015125,015173,2024,CE-Cessione territorio,MI,215,MI,215,10/12/2024
+015173,015125,2024,CE-Cessione territorio,MI,215,MI,215,10/12/2024
+015173,015125,2024,AQ-Acquisizione territorio,MI,215,MI,215,10/12/2024
+016024,016150,2024,CE-Cessione territorio,BG,016,BG,016,18/04/2024
+016150,016024,2024,AQ-Acquisizione territorio,BG,016,BG,016,18/04/2024
+065088,065130,2024,AQ-Acquisizione territorio,SA,065,SA,065,19/02/2024
+065130,065088,2024,CE-Cessione territorio,SA,065,SA,065,19/02/2024
+020003,020071,2024,AQ-Acquisizione territorio,MN,020,MN,020,17/02/2024
+020071,020003,2024,CE-Cessione territorio,MN,020,MN,020,17/02/2024
+024007,024049,2024,CE-Cessione territorio,VI,024,VI,024,03/02/2024
+024007,024049,2024,AQ-Acquisizione territorio,VI,024,VI,024,03/02/2024
+024049,024007,2024,AQ-Acquisizione territorio,VI,024,VI,024,03/02/2024
+024049,024007,2024,CE-Cessione territorio,VI,024,VI,024,03/02/2024
+024044,024128,2024,ES-Estinzione,VI,024,VI,024,22/01/2024
+024103,024128,2024,ES-Estinzione,VI,024,VI,024,22/01/2024
+024128,024044,2024,CS-Costituzione,VI,024,VI,024,22/01/2024
+024128,024103,2024,CS-Costituzione,VI,024,VI,024,22/01/2024
+025002,025075,2024,ES-Estinzione,BL,025,BL,025,22/01/2024
+025070,025075,2024,ES-Estinzione,BL,025,BL,025,22/01/2024
+025075,025002,2024,CS-Costituzione,BL,025,BL,025,22/01/2024
+025075,025070,2024,CS-Costituzione,BL,025,BL,025,22/01/2024
+028022,028108,2024,ES-Estinzione,PD,028,PD,028,22/01/2024
+028098,028108,2024,ES-Estinzione,PD,028,PD,028,22/01/2024
+028108,028022,2024,CS-Costituzione,PD,028,PD,028,22/01/2024
+028108,028098,2024,CS-Costituzione,PD,028,PD,028,22/01/2024
+013199,013256,2024,ES-Estinzione,CO,013,CO,013,01/01/2024
+013228,013256,2024,ES-Estinzione,CO,013,CO,013,01/01/2024
+013256,013199,2024,CS-Costituzione,CO,013,CO,013,01/01/2024
+013256,013228,2024,CS-Costituzione,CO,013,CO,013,01/01/2024
+018002,018026,2023,ES-Estinzione,PV,018,PV,018,18/11/2023
+018026,018002,2023,AQES-Acquisizione per estinzione,PV,018,PV,018,18/11/2023
+018026,018026,2023,CD-Cambio denominazione,PV,018,PV,018,18/11/2023
+005077,005077,2023,CD-Cambio denominazione,AT,005,AT,005,19/10/2023
+068033,068033,2023,CD-Cambio denominazione,PE,068,PE,068,13/07/2023
+021053,021053,2023,CD-Cambio denominazione,BZ,021,BZ,021,14/04/2023
+005056,005056,2023,CD-Cambio denominazione,AT,005,AT,005,17/01/2023
+005079,005122,2023,ES-Estinzione,AT,005,AT,005,01/01/2023
+005110,005122,2023,ES-Estinzione,AT,005,AT,005,01/01/2023
+005122,005079,2023,CS-Costituzione,AT,005,AT,005,01/01/2023
+005122,005110,2023,CS-Costituzione,AT,005,AT,005,01/01/2023
+012009,012144,2023,ES-Estinzione,VA,012,VA,012,01/01/2023
+012018,012144,2023,ES-Estinzione,VA,012,VA,012,01/01/2023
+012095,012144,2023,ES-Estinzione,VA,012,VA,012,01/01/2023
+012144,012009,2023,CS-Costituzione,VA,012,VA,012,01/01/2023
+012144,012018,2023,CS-Costituzione,VA,012,VA,012,01/01/2023
+012144,012095,2023,CS-Costituzione,VA,012,VA,012,01/01/2023
+073022,073027,2022,AQ-Acquisizione territorio,TA,073,TA,073,23/11/2022
+073027,073022,2022,CE-Cessione territorio,TA,073,TA,073,23/11/2022
+005014,005014,2022,CD-Cambio denominazione,AT,005,AT,005,12/08/2022
+005020,005020,2022,CD-Cambio denominazione,AT,005,AT,005,03/03/2022
+041033,099030,2021,AP-Cambio appartenenza Provincia,PU,041,RN,099,17/06/2021
+041060,099031,2021,AP-Cambio appartenenza Provincia,PU,041,RN,099,17/06/2021
+007029,007036,2021,CE-Cessione territorio,AO,007,AO,007,17/03/2021
+007029,007036,2021,AQ-Acquisizione territorio,AO,007,AO,007,17/03/2021
+007036,007029,2021,AQ-Acquisizione territorio,AO,007,AO,007,17/03/2021
+007036,007029,2021,CE-Cessione territorio,AO,007,AO,007,17/03/2021
+081021,081025,2021,CECS-Cessione territorio per costituzione nuova unità,TP,081,TP,081,20/02/2021
+081025,081021,2021,CS-Costituzione,TP,081,TP,081,20/02/2021
+041032,041044,2020,ES-Estinzione,PU,041,PU,041,01/07/2020
+041044,041032,2020,AQES-Acquisizione per estinzione,PU,041,PU,041,01/07/2020
+095067,095083,2020,AQ-Acquisizione territorio,OR,095,OR,095,13/02/2020
+095067,095083,2020,CE-Cessione territorio,OR,095,OR,095,13/02/2020
+095083,095067,2020,AQ-Acquisizione territorio,OR,095,OR,095,13/02/2020
+095083,095067,2020,CE-Cessione territorio,OR,095,OR,095,13/02/2020
+098010,098054,2020,CE-Cessione territorio,LO,098,LO,098,05/02/2020
+098054,098010,2020,AQ-Acquisizione territorio,LO,098,LO,098,05/02/2020
+007031,007066,2020,CE-Cessione territorio,AO,007,AO,007,14/01/2020
+007066,007031,2020,AQ-Acquisizione territorio,AO,007,AO,007,14/01/2020
+084001,084017,2020,CE-Cessione territorio,AG,084,AG,084,04/01/2020
+084001,084017,2020,AQ-Acquisizione territorio,AG,084,AG,084,04/01/2020
+084003,084017,2020,AQ-Acquisizione territorio,AG,084,AG,084,04/01/2020
+084003,084017,2020,CE-Cessione territorio,AG,084,AG,084,04/01/2020
+084017,084001,2020,CE-Cessione territorio,AG,084,AG,084,04/01/2020
+084017,084001,2020,AQ-Acquisizione territorio,AG,084,AG,084,04/01/2020
+084017,084003,2020,AQ-Acquisizione territorio,AG,084,AG,084,04/01/2020
+084017,084003,2020,CE-Cessione territorio,AG,084,AG,084,04/01/2020
+022027,022253,2020,ES-Estinzione,TN,022,TN,022,01/01/2020
+022030,022253,2020,ES-Estinzione,TN,022,TN,022,01/01/2020
+022041,022254,2020,ES-Estinzione,TN,022,TN,022,01/01/2020
+022046,022252,2020,ES-Estinzione,TN,022,TN,022,01/01/2020
+022063,022253,2020,ES-Estinzione,TN,022,TN,022,01/01/2020
+022070,022254,2020,ES-Estinzione,TN,022,TN,022,01/01/2020
+022080,022167,2020,ES-Estinzione,TN,022,TN,022,01/01/2020
+022088,022252,2020,ES-Estinzione,TN,022,TN,022,01/01/2020
+022111,022252,2020,ES-Estinzione,TN,022,TN,022,01/01/2020
+022152,022253,2020,ES-Estinzione,TN,022,TN,022,01/01/2020
+022154,022253,2020,ES-Estinzione,TN,022,TN,022,01/01/2020
+022167,022080,2020,AQES-Acquisizione per estinzione,TN,022,TN,022,01/01/2020
+022211,022254,2020,ES-Estinzione,TN,022,TN,022,01/01/2020
+022252,022046,2020,CS-Costituzione,TN,022,TN,022,01/01/2020
+022252,022088,2020,CS-Costituzione,TN,022,TN,022,01/01/2020
+022252,022111,2020,CS-Costituzione,TN,022,TN,022,01/01/2020
+022253,022027,2020,CS-Costituzione,TN,022,TN,022,01/01/2020
+022253,022030,2020,CS-Costituzione,TN,022,TN,022,01/01/2020
+022253,022063,2020,CS-Costituzione,TN,022,TN,022,01/01/2020
+022253,022152,2020,CS-Costituzione,TN,022,TN,022,01/01/2020
+022253,022154,2020,CS-Costituzione,TN,022,TN,022,01/01/2020
+022254,022041,2020,CS-Costituzione,TN,022,TN,022,01/01/2020
+022254,022070,2020,CS-Costituzione,TN,022,TN,022,01/01/2020
+022254,022211,2020,CS-Costituzione,TN,022,TN,022,01/01/2020
+097008,097085,2020,AQES-Acquisizione per estinzione,LC,097,LC,097,01/01/2020
+097085,097008,2020,ES-Estinzione,LC,097,LC,097,01/01/2020
+021076,021076,2019,CD-Cambio denominazione,BZ,021,BZ,021,11/10/2019
+019033,019077,2019,CE-Cessione territorio,CR,019,CR,019,04/07/2019
+019033,019077,2019,AQ-Acquisizione territorio,CR,019,CR,019,04/07/2019
+019077,019033,2019,AQ-Acquisizione territorio,CR,019,CR,019,04/07/2019
+019077,019033,2019,CE-Cessione territorio,CR,019,CR,019,04/07/2019
+006045,006045,2019,CD-Cambio denominazione,AL,006,AL,006,31/05/2019
+075001,075098,2019,ES-Estinzione,LE,075,LE,075,15/05/2019
+075062,075098,2019,ES-Estinzione,LE,075,LE,075,15/05/2019
+075098,075001,2019,CS-Costituzione,LE,075,LE,075,15/05/2019
+075098,075062,2019,CS-Costituzione,LE,075,LE,075,15/05/2019
+023052,023052,2019,CD-Cambio denominazione,VR,023,VR,023,23/02/2019
+024033,024127,2019,ES-Estinzione,VI,024,VI,024,20/02/2019
+024054,024127,2019,ES-Estinzione,VI,024,VI,024,20/02/2019
+024058,024126,2019,ES-Estinzione,VI,024,VI,024,20/02/2019
+024059,024126,2019,ES-Estinzione,VI,024,VI,024,20/02/2019
+024126,024058,2019,CS-Costituzione,VI,024,VI,024,20/02/2019
+024126,024059,2019,CS-Costituzione,VI,024,VI,024,20/02/2019
+024127,024033,2019,CS-Costituzione,VI,024,VI,024,20/02/2019
+024127,024054,2019,CS-Costituzione,VI,024,VI,024,20/02/2019
+012028,012143,2019,ES-Estinzione,VA,012,VA,012,15/02/2019
+012111,012143,2019,ES-Estinzione,VA,012,VA,012,15/02/2019
+012143,012028,2019,CS-Costituzione,VA,012,VA,012,15/02/2019
+012143,012111,2019,CS-Costituzione,VA,012,VA,012,15/02/2019
+015235,015251,2019,ES-Estinzione,MI,215,MI,215,08/02/2019
+015246,015251,2019,ES-Estinzione,MI,215,MI,215,08/02/2019
+015251,015235,2019,CS-Costituzione,MI,215,MI,215,08/02/2019
+015251,015246,2019,CS-Costituzione,MI,215,MI,215,08/02/2019
+006064,006193,2019,ES-Estinzione,AL,006,AL,006,01/02/2019
+006089,006193,2019,ES-Estinzione,AL,006,AL,006,01/02/2019
+006193,006064,2019,CS-Costituzione,AL,006,AL,006,01/02/2019
+006193,006089,2019,CS-Costituzione,AL,006,AL,006,01/02/2019
+024023,024125,2019,ES-Estinzione,VI,024,VI,024,30/01/2019
+024031,024125,2019,ES-Estinzione,VI,024,VI,024,30/01/2019
+024093,024125,2019,ES-Estinzione,VI,024,VI,024,30/01/2019
+024114,024125,2019,ES-Estinzione,VI,024,VI,024,30/01/2019
+024125,024023,2019,CS-Costituzione,VI,024,VI,024,30/01/2019
+024125,024031,2019,CS-Costituzione,VI,024,VI,024,30/01/2019
+024125,024093,2019,CS-Costituzione,VI,024,VI,024,30/01/2019
+024125,024114,2019,CS-Costituzione,VI,024,VI,024,30/01/2019
+025028,025074,2019,ES-Estinzione,BL,025,BL,025,30/01/2019
+025034,025074,2019,ES-Estinzione,BL,025,BL,025,30/01/2019
+025061,025074,2019,ES-Estinzione,BL,025,BL,025,30/01/2019
+025074,025028,2019,CS-Costituzione,BL,025,BL,025,30/01/2019
+025074,025034,2019,CS-Costituzione,BL,025,BL,025,30/01/2019
+025074,025061,2019,CS-Costituzione,BL,025,BL,025,30/01/2019
+026024,026096,2019,ES-Estinzione,TV,026,TV,026,30/01/2019
+026054,026096,2019,ES-Estinzione,TV,026,TV,026,30/01/2019
+026096,026024,2019,CS-Costituzione,TV,026,TV,026,30/01/2019
+026096,026054,2019,CS-Costituzione,TV,026,TV,026,30/01/2019
+001005,001317,2019,ES-Estinzione,TO,201,TO,201,01/01/2019
+001138,001317,2019,ES-Estinzione,TO,201,TO,201,01/01/2019
+001151,001318,2019,ES-Estinzione,TO,201,TO,201,01/01/2019
+001182,001317,2019,ES-Estinzione,TO,201,TO,201,01/01/2019
+001277,001318,2019,ES-Estinzione,TO,201,TO,201,01/01/2019
+001297,001318,2019,ES-Estinzione,TO,201,TO,201,01/01/2019
+001317,001005,2019,CS-Costituzione,TO,201,TO,201,01/01/2019
+001317,001138,2019,CS-Costituzione,TO,201,TO,201,01/01/2019
+001317,001182,2019,CS-Costituzione,TO,201,TO,201,01/01/2019
+001318,001151,2019,CS-Costituzione,TO,201,TO,201,01/01/2019
+001318,001277,2019,CS-Costituzione,TO,201,TO,201,01/01/2019
+001318,001297,2019,CS-Costituzione,TO,201,TO,201,01/01/2019
+002002,002114,2019,AQES-Acquisizione per estinzione,VC,002,VC,002,01/01/2019
+002114,002002,2019,ES-Estinzione,VC,002,VC,002,01/01/2019
+003071,003166,2019,ES-Estinzione,NO,003,NO,003,01/01/2019
+003157,003166,2019,ES-Estinzione,NO,003,NO,003,01/01/2019
+003166,003071,2019,CS-Costituzione,NO,003,NO,003,01/01/2019
+003166,003157,2019,CS-Costituzione,NO,003,NO,003,01/01/2019
+004034,004236,2019,AQES-Acquisizione per estinzione,CN,004,CN,004,01/01/2019
+004036,004213,2019,ES-Estinzione,CN,004,CN,004,01/01/2019
+004048,004203,2019,ES-Estinzione,CN,004,CN,004,01/01/2019
+004203,004048,2019,AQES-Acquisizione per estinzione,CN,004,CN,004,01/01/2019
+004213,004036,2019,AQES-Acquisizione per estinzione,CN,004,CN,004,01/01/2019
+004236,004034,2019,ES-Estinzione,CN,004,CN,004,01/01/2019
+013038,013255,2019,ES-Estinzione,CO,013,CO,013,01/01/2019
+013215,013255,2019,ES-Estinzione,CO,013,CO,013,01/01/2019
+013255,013038,2019,CS-Costituzione,CO,013,CO,013,01/01/2019
+013255,013215,2019,CS-Costituzione,CO,013,CO,013,01/01/2019
+018028,018193,2019,ES-Estinzione,PV,018,PV,018,01/01/2019
+018132,018193,2019,ES-Estinzione,PV,018,PV,018,01/01/2019
+018170,018193,2019,ES-Estinzione,PV,018,PV,018,01/01/2019
+018193,018028,2019,CS-Costituzione,PV,018,PV,018,01/01/2019
+018193,018132,2019,CS-Costituzione,PV,018,PV,018,01/01/2019
+018193,018170,2019,CS-Costituzione,PV,018,PV,018,01/01/2019
+019008,019107,2019,ES-Estinzione,CR,019,CR,019,01/01/2019
+019042,019116,2019,ES-Estinzione,CR,019,CR,019,01/01/2019
+019071,019116,2019,ES-Estinzione,CR,019,CR,019,01/01/2019
+019107,019008,2019,AQES-Acquisizione per estinzione,CR,019,CR,019,01/01/2019
+019116,019042,2019,CS-Costituzione,CR,019,CR,019,01/01/2019
+019116,019071,2019,CS-Costituzione,CR,019,CR,019,01/01/2019
+020004,020057,2019,ES-Estinzione,MN,020,MN,020,01/01/2019
+020006,020073,2019,ES-Estinzione,MN,020,MN,020,01/01/2019
+020009,020073,2019,ES-Estinzione,MN,020,MN,020,01/01/2019
+020057,020004,2019,AQES-Acquisizione per estinzione,MN,020,MN,020,01/01/2019
+020057,020057,2019,CD-Cambio denominazione,MN,020,MN,020,01/01/2019
+020073,020006,2019,CS-Costituzione,MN,020,MN,020,01/01/2019
+020073,020009,2019,CS-Costituzione,MN,020,MN,020,01/01/2019
+022126,022251,2019,ES-Estinzione,TN,022,TN,022,01/01/2019
+022225,022251,2019,ES-Estinzione,TN,022,TN,022,01/01/2019
+022251,022126,2019,CS-Costituzione,TN,022,TN,022,01/01/2019
+022251,022225,2019,CS-Costituzione,TN,022,TN,022,01/01/2019
+034021,034051,2019,ES-Estinzione,PR,034,PR,034,01/01/2019
+034037,034051,2019,ES-Estinzione,PR,034,PR,034,01/01/2019
+034051,034021,2019,CS-Costituzione,PR,034,PR,034,01/01/2019
+034051,034037,2019,CS-Costituzione,PR,034,PR,034,01/01/2019
+038002,038029,2019,ES-Estinzione,FE,038,FE,038,01/01/2019
+038009,038030,2019,ES-Estinzione,FE,038,FE,038,01/01/2019
+038020,038029,2019,ES-Estinzione,FE,038,FE,038,01/01/2019
+038024,038030,2019,ES-Estinzione,FE,038,FE,038,01/01/2019
+038029,038002,2019,CS-Costituzione,FE,038,FE,038,01/01/2019
+038029,038020,2019,CS-Costituzione,FE,038,FE,038,01/01/2019
+038030,038009,2019,CS-Costituzione,FE,038,FE,038,01/01/2019
+038030,038024,2019,CS-Costituzione,FE,038,FE,038,01/01/2019
+041003,041071,2019,ES-Estinzione,PU,041,PU,041,01/01/2019
+041059,041071,2019,ES-Estinzione,PU,041,PU,041,01/01/2019
+041071,041003,2019,CS-Costituzione,PU,041,PU,041,01/01/2019
+041071,041059,2019,CS-Costituzione,PU,041,PU,041,01/01/2019
+048003,048054,2019,ES-Estinzione,FI,248,FI,248,01/01/2019
+048045,048054,2019,ES-Estinzione,FI,248,FI,248,01/01/2019
+048054,048003,2019,CS-Costituzione,FI,248,FI,248,01/01/2019
+048054,048045,2019,CS-Costituzione,FI,248,FI,248,01/01/2019
+096017,096087,2019,ES-Estinzione,BI,096,BI,096,01/01/2019
+096051,096087,2019,ES-Estinzione,BI,096,BI,096,01/01/2019
+096062,096088,2019,ES-Estinzione,BI,096,BI,096,01/01/2019
+096070,096088,2019,ES-Estinzione,BI,096,BI,096,01/01/2019
+096073,096088,2019,ES-Estinzione,BI,096,BI,096,01/01/2019
+096084,096088,2019,ES-Estinzione,BI,096,BI,096,01/01/2019
+096087,096017,2019,CS-Costituzione,BI,096,BI,096,01/01/2019
+096087,096051,2019,CS-Costituzione,BI,096,BI,096,01/01/2019
+096088,096062,2019,CS-Costituzione,BI,096,BI,096,01/01/2019
+096088,096070,2019,CS-Costituzione,BI,096,BI,096,01/01/2019
+096088,096073,2019,CS-Costituzione,BI,096,BI,096,01/01/2019
+096088,096084,2019,CS-Costituzione,BI,096,BI,096,01/01/2019
+103020,103079,2019,ES-Estinzione,VB,103,VB,103,01/01/2019
+103027,103079,2019,ES-Estinzione,VB,103,VB,103,01/01/2019
+103030,103079,2019,ES-Estinzione,VB,103,VB,103,01/01/2019
+103079,103020,2019,CS-Costituzione,VB,103,VB,103,01/01/2019
+103079,103027,2019,CS-Costituzione,VB,103,VB,103,01/01/2019
+103079,103030,2019,CS-Costituzione,VB,103,VB,103,01/01/2019
+022250,022250,2018,CD-Cambio denominazione,TN,022,TN,022,07/12/2018
+078044,078157,2018,ES-Estinzione,CS,078,CS,078,31/03/2018
+078108,078157,2018,ES-Estinzione,CS,078,CS,078,31/03/2018
+078157,078044,2018,CS-Costituzione,CS,078,CS,078,31/03/2018
+078157,078108,2018,CS-Costituzione,CS,078,CS,078,31/03/2018
+095067,095083,2018,AQ-Acquisizione territorio,OR,095,OR,095,23/03/2018
+095067,095083,2018,CE-Cessione territorio,OR,095,OR,095,23/03/2018
+095083,095067,2018,CE-Cessione territorio,OR,095,OR,095,23/03/2018
+095083,095067,2018,AQ-Acquisizione territorio,OR,095,OR,095,23/03/2018
+024011,024124,2018,ES-Estinzione,VI,024,VI,024,17/02/2018
+024069,024124,2018,ES-Estinzione,VI,024,VI,024,17/02/2018
+024124,024011,2018,CS-Costituzione,VI,024,VI,024,17/02/2018
+024124,024069,2018,CS-Costituzione,VI,024,VI,024,17/02/2018
+028051,028107,2018,ES-Estinzione,PD,028,PD,028,17/02/2018
+028074,028107,2018,ES-Estinzione,PD,028,PD,028,17/02/2018
+028081,028107,2018,ES-Estinzione,PD,028,PD,028,17/02/2018
+028107,028051,2018,CS-Costituzione,PD,028,PD,028,17/02/2018
+028107,028074,2018,CS-Costituzione,PD,028,PD,028,17/02/2018
+028107,028081,2018,CS-Costituzione,PD,028,PD,028,17/02/2018
+087018,087027,2018,AQ-Acquisizione territorio,CT,287,CT,287,17/02/2018
+087027,087018,2018,CE-Cessione territorio,CT,287,CT,287,17/02/2018
+030038,030190,2018,ES-Estinzione,UD,030,UD,030,01/02/2018
+030050,030191,2018,ES-Estinzione,UD,030,UD,030,01/02/2018
+030125,030191,2018,ES-Estinzione,UD,030,UD,030,01/02/2018
+030134,030190,2018,ES-Estinzione,UD,030,UD,030,01/02/2018
+030190,030038,2018,CS-Costituzione,UD,030,UD,030,01/02/2018
+030190,030134,2018,CS-Costituzione,UD,030,UD,030,01/02/2018
+030191,030050,2018,CS-Costituzione,UD,030,UD,030,01/02/2018
+030191,030125,2018,CS-Costituzione,UD,030,UD,030,01/02/2018
+097080,016215,2018,AP-Cambio appartenenza Provincia,LC,097,BG,016,27/01/2018
+002019,002171,2018,ES-Estinzione,VC,002,VC,002,01/01/2018
+002038,002171,2018,ES-Estinzione,VC,002,VC,002,01/01/2018
+002111,002170,2018,ES-Estinzione,VC,002,VC,002,01/01/2018
+002112,002170,2018,ES-Estinzione,VC,002,VC,002,01/01/2018
+002123,002156,2018,ES-Estinzione,VC,002,VC,002,01/01/2018
+002156,002123,2018,AQES-Acquisizione per estinzione,VC,002,VC,002,01/01/2018
+002170,002111,2018,CS-Costituzione,VC,002,VC,002,01/01/2018
+002170,002112,2018,CS-Costituzione,VC,002,VC,002,01/01/2018
+002171,002019,2018,CS-Costituzione,VC,002,VC,002,01/01/2018
+002171,002038,2018,CS-Costituzione,VC,002,VC,002,01/01/2018
+006006,006192,2018,ES-Estinzione,AL,006,AL,006,01/01/2018
+006042,006191,2018,ES-Estinzione,AL,006,AL,006,01/01/2018
+006080,006191,2018,ES-Estinzione,AL,006,AL,006,01/01/2018
+006130,006192,2018,ES-Estinzione,AL,006,AL,006,01/01/2018
+006191,006042,2018,CS-Costituzione,AL,006,AL,006,01/01/2018
+006191,006080,2018,CS-Costituzione,AL,006,AL,006,01/01/2018
+006192,006006,2018,CS-Costituzione,AL,006,AL,006,01/01/2018
+006192,006130,2018,CS-Costituzione,AL,006,AL,006,01/01/2018
+008013,008068,2018,ES-Estinzione,IM,008,IM,008,01/01/2018
+008036,008068,2018,ES-Estinzione,IM,008,IM,008,01/01/2018
+008068,008013,2018,CS-Costituzione,IM,008,IM,008,01/01/2018
+008068,008036,2018,CS-Costituzione,IM,008,IM,008,01/01/2018
+013050,013254,2018,ES-Estinzione,CO,013,CO,013,01/01/2018
+013060,013254,2018,ES-Estinzione,CO,013,CO,013,01/01/2018
+013205,013254,2018,ES-Estinzione,CO,013,CO,013,01/01/2018
+013254,013050,2018,CS-Costituzione,CO,013,CO,013,01/01/2018
+013254,013060,2018,CS-Costituzione,CO,013,CO,013,01/01/2018
+013254,013205,2018,CS-Costituzione,CO,013,CO,013,01/01/2018
+020040,020072,2018,ES-Estinzione,MN,020,MN,020,01/01/2018
+020049,020072,2018,ES-Estinzione,MN,020,MN,020,01/01/2018
+020067,020072,2018,ES-Estinzione,MN,020,MN,020,01/01/2018
+020072,020040,2018,CS-Costituzione,MN,020,MN,020,01/01/2018
+020072,020049,2018,CS-Costituzione,MN,020,MN,020,01/01/2018
+020072,020067,2018,CS-Costituzione,MN,020,MN,020,01/01/2018
+022145,022250,2018,ES-Estinzione,TN,022,TN,022,01/01/2018
+022217,022250,2018,ES-Estinzione,TN,022,TN,022,01/01/2018
+022250,022145,2018,CS-Costituzione,TN,022,TN,022,01/01/2018
+022250,022217,2018,CS-Costituzione,TN,022,TN,022,01/01/2018
+033009,033049,2018,ES-Estinzione,PC,033,PC,033,01/01/2018
+033029,033049,2018,ES-Estinzione,PC,033,PC,033,01/01/2018
+033031,033049,2018,ES-Estinzione,PC,033,PC,033,01/01/2018
+033049,033009,2018,CS-Costituzione,PC,033,PC,033,01/01/2018
+033049,033029,2018,CS-Costituzione,PC,033,PC,033,01/01/2018
+033049,033031,2018,CS-Costituzione,PC,033,PC,033,01/01/2018
+049015,049021,2018,ES-Estinzione,LI,049,LI,049,01/01/2018
+049016,049021,2018,ES-Estinzione,LI,049,LI,049,01/01/2018
+049021,049015,2018,CS-Costituzione,LI,049,LI,049,01/01/2018
+049021,049016,2018,CS-Costituzione,LI,049,LI,049,01/01/2018
+051019,051042,2018,ES-Estinzione,AR,051,AR,051,01/01/2018
+051028,051042,2018,ES-Estinzione,AR,051,AR,051,01/01/2018
+051042,051019,2018,CS-Costituzione,AR,051,AR,051,01/01/2018
+051042,051028,2018,CS-Costituzione,AR,051,AR,051,01/01/2018
+097041,097093,2018,ES-Estinzione,LC,097,LC,097,01/01/2018
+097081,097093,2018,ES-Estinzione,LC,097,LC,097,01/01/2018
+097089,097093,2018,ES-Estinzione,LC,097,LC,097,01/01/2018
+097093,097041,2018,CS-Costituzione,LC,097,LC,097,01/01/2018
+097093,097081,2018,CS-Costituzione,LC,097,LC,097,01/01/2018
+097093,097089,2018,CS-Costituzione,LC,097,LC,097,01/01/2018
+098007,098062,2018,ES-Estinzione,LO,098,LO,098,01/01/2018
+098016,098062,2018,ES-Estinzione,LO,098,LO,098,01/01/2018
+098062,098007,2018,CS-Costituzione,LO,098,LO,098,01/01/2018
+098062,098016,2018,CS-Costituzione,LO,098,LO,098,01/01/2018
+025052,030189,2017,AP-Cambio appartenenza Provincia,BL,025,UD,030,16/12/2017
+079009,079095,2017,CE-Cessione territorio,CZ,079,CZ,079,09/11/2017
+079095,079009,2017,AQ-Acquisizione territorio,CZ,079,CZ,079,09/11/2017
+078028,078156,2017,ES-Estinzione,CS,078,CS,078,05/05/2017
+078095,078156,2017,ES-Estinzione,CS,078,CS,078,05/05/2017
+078141,078156,2017,ES-Estinzione,CS,078,CS,078,05/05/2017
+078144,078156,2017,ES-Estinzione,CS,078,CS,078,05/05/2017
+078151,078156,2017,ES-Estinzione,CS,078,CS,078,05/05/2017
+078156,078028,2017,CS-Costituzione,CS,078,CS,078,05/05/2017
+078156,078095,2017,CS-Costituzione,CS,078,CS,078,05/05/2017
+078156,078141,2017,CS-Costituzione,CS,078,CS,078,05/05/2017
+078156,078144,2017,CS-Costituzione,CS,078,CS,078,05/05/2017
+078156,078151,2017,CS-Costituzione,CS,078,CS,078,05/05/2017
+011020,011020,2017,CD-Cambio denominazione,SP,011,SP,011,20/04/2017
+001028,001316,2017,CECS-Cessione territorio per costituzione nuova unità,TO,201,TO,201,18/04/2017
+001063,001316,2017,CECS-Cessione territorio per costituzione nuova unità,TO,201,TO,201,18/04/2017
+001130,001316,2017,CECS-Cessione territorio per costituzione nuova unità,TO,201,TO,201,18/04/2017
+001265,001316,2017,CECS-Cessione territorio per costituzione nuova unità,TO,201,TO,201,18/04/2017
+001316,001028,2017,CS-Costituzione,TO,201,TO,201,18/04/2017
+001316,001063,2017,CS-Costituzione,TO,201,TO,201,18/04/2017
+001316,001130,2017,CS-Costituzione,TO,201,TO,201,18/04/2017
+001316,001265,2017,CS-Costituzione,TO,201,TO,201,18/04/2017
+095067,095083,2017,CE-Cessione territorio,OR,095,OR,095,31/03/2017
+095067,095083,2017,AQ-Acquisizione territorio,OR,095,OR,095,31/03/2017
+095083,095067,2017,CE-Cessione territorio,OR,095,OR,095,31/03/2017
+095083,095067,2017,AQ-Acquisizione territorio,OR,095,OR,095,31/03/2017
+021022,021114,2017,AQ-Acquisizione territorio,BZ,021,BZ,021,15/03/2017
+021022,021114,2017,CE-Cessione territorio,BZ,021,BZ,021,15/03/2017
+021114,021022,2017,CE-Cessione territorio,BZ,021,BZ,021,15/03/2017
+021114,021022,2017,AQ-Acquisizione territorio,BZ,021,BZ,021,15/03/2017
+022176,022176,2017,CD-Cambio denominazione,TN,022,TN,022,15/03/2017
+015009,015027,2017,CE-Cessione territorio,MI,215,MI,215,11/03/2017
+015009,015027,2017,AQ-Acquisizione territorio,MI,215,MI,215,11/03/2017
+015027,015009,2017,CE-Cessione territorio,MI,215,MI,215,11/03/2017
+015027,015009,2017,AQ-Acquisizione territorio,MI,215,MI,215,11/03/2017
+020023,020061,2017,ES-Estinzione,MN,020,MN,020,01/03/2017
+020061,020023,2017,AQES-Acquisizione per estinzione,MN,020,MN,020,01/03/2017
+020061,020061,2017,CD-Cambio denominazione,MN,020,MN,020,01/03/2017
+024045,024123,2017,ES-Estinzione,VI,024,VI,024,17/02/2017
+024092,024123,2017,ES-Estinzione,VI,024,VI,024,17/02/2017
+024123,024045,2017,CS-Costituzione,VI,024,VI,024,17/02/2017
+024123,024092,2017,CS-Costituzione,VI,024,VI,024,17/02/2017
+006076,006076,2017,CD-Cambio denominazione,AL,006,AL,006,14/02/2017
+013061,013206,2017,ES-Estinzione,CO,013,CO,013,01/01/2017
+013122,013253,2017,ES-Estinzione,CO,013,CO,013,01/01/2017
+013179,013253,2017,ES-Estinzione,CO,013,CO,013,01/01/2017
+013194,013253,2017,ES-Estinzione,CO,013,CO,013,01/01/2017
+013206,013061,2017,AQES-Acquisizione per estinzione,CO,013,CO,013,01/01/2017
+013253,013122,2017,CS-Costituzione,CO,013,CO,013,01/01/2017
+013253,013179,2017,CS-Costituzione,CO,013,CO,013,01/01/2017
+013253,013194,2017,CS-Costituzione,CO,013,CO,013,01/01/2017
+038016,038028,2017,ES-Estinzione,FE,038,FE,038,01/01/2017
+038021,038028,2017,ES-Estinzione,FE,038,FE,038,01/01/2017
+038028,038016,2017,CS-Costituzione,FE,038,FE,038,01/01/2017
+038028,038021,2017,CS-Costituzione,FE,038,FE,038,01/01/2017
+041004,041070,2017,ES-Estinzione,PU,041,PU,041,01/01/2017
+041037,041069,2017,ES-Estinzione,PU,041,PU,041,01/01/2017
+041040,041070,2017,ES-Estinzione,PU,041,PU,041,01/01/2017
+041046,041070,2017,ES-Estinzione,PU,041,PU,041,01/01/2017
+041050,041069,2017,ES-Estinzione,PU,041,PU,041,01/01/2017
+041052,041070,2017,ES-Estinzione,PU,041,PU,041,01/01/2017
+041062,041069,2017,ES-Estinzione,PU,041,PU,041,01/01/2017
+041069,041037,2017,CS-Costituzione,PU,041,PU,041,01/01/2017
+041069,041050,2017,CS-Costituzione,PU,041,PU,041,01/01/2017
+041069,041062,2017,CS-Costituzione,PU,041,PU,041,01/01/2017
+041070,041004,2017,CS-Costituzione,PU,041,PU,041,01/01/2017
+041070,041040,2017,CS-Costituzione,PU,041,PU,041,01/01/2017
+041070,041046,2017,CS-Costituzione,PU,041,PU,041,01/01/2017
+041070,041052,2017,CS-Costituzione,PU,041,PU,041,01/01/2017
+043001,043017,2017,ES-Estinzione,MC,043,MC,043,01/01/2017
+043017,043001,2017,AQES-Acquisizione per estinzione,MC,043,MC,043,01/01/2017
+043018,043058,2017,ES-Estinzione,MC,043,MC,043,01/01/2017
+043037,043058,2017,ES-Estinzione,MC,043,MC,043,01/01/2017
+043058,043018,2017,CS-Costituzione,MC,043,MC,043,01/01/2017
+043058,043037,2017,CS-Costituzione,MC,043,MC,043,01/01/2017
+047001,047023,2017,ES-Estinzione,PT,047,PT,047,01/01/2017
+047004,047023,2017,ES-Estinzione,PT,047,PT,047,01/01/2017
+047015,047024,2017,ES-Estinzione,PT,047,PT,047,01/01/2017
+047019,047024,2017,ES-Estinzione,PT,047,PT,047,01/01/2017
+047023,047001,2017,CS-Costituzione,PT,047,PT,047,01/01/2017
+047023,047004,2017,CS-Costituzione,PT,047,PT,047,01/01/2017
+047024,047015,2017,CS-Costituzione,PT,047,PT,047,01/01/2017
+047024,047019,2017,CS-Costituzione,PT,047,PT,047,01/01/2017
+052014,052037,2017,ES-Estinzione,SI,052,SI,052,01/01/2017
+052029,052037,2017,ES-Estinzione,SI,052,SI,052,01/01/2017
+052037,052014,2017,CS-Costituzione,SI,052,SI,052,01/01/2017
+052037,052029,2017,CS-Costituzione,SI,052,SI,052,01/01/2017
+096042,096061,2017,AQES-Acquisizione per estinzione,BI,096,BI,096,01/01/2017
+096061,096042,2017,ES-Estinzione,BI,096,BI,096,01/01/2017
+023030,023030,2016,CD-Cambio denominazione,VR,023,VR,023,24/12/2016
+022099,022240,2016,ES-Estinzione,TN,022,TN,022,01/07/2016
+022240,022099,2016,AQES-Acquisizione per estinzione,TN,022,TN,022,01/07/2016
+065025,065025,2016,CD-Cambio denominazione,SA,065,SA,065,10/06/2016
+092002,111002,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092004,111003,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092005,111004,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092008,111007,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092016,111013,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092017,111014,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092018,111015,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092020,111017,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092024,111026,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092027,111029,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092030,111032,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092031,111033,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092036,111039,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092038,111041,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092039,111042,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092042,111047,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092044,111051,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092048,111055,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092053,111060,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092054,111061,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092058,111064,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092059,111065,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092061,111069,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092064,111066,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092069,111074,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092070,111075,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092071,111076,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092078,111084,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092079,111085,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092081,111086,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092082,111087,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092083,111088,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092084,111089,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092088,111093,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092091,111095,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092097,111103,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092098,111104,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092100,111105,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092101,111106,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092102,111107,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092106,111011,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092110,111018,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092111,111019,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092112,111020,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092113,111025,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092114,111036,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092115,111045,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092116,111046,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092117,111048,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092118,111050,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092119,111058,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092120,111079,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092121,111082,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+092122,111099,2016,AP-Cambio appartenenza Provincia,CA,092,SU,111,28/04/2016
+095081,111023,2016,AP-Cambio appartenenza Provincia,OR,095,SU,111,28/04/2016
+104001,090001,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104002,090062,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104003,090002,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104004,090006,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104005,090081,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104006,090009,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104007,090014,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104008,090017,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104009,090091,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104010,090021,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104011,090083,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104012,090035,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104013,090084,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104014,090036,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104015,090037,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104016,090041,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104017,090047,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104018,090049,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104019,090090,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104020,090054,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104021,090085,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104022,090063,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104023,090092,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104024,090080,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104025,090070,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+104026,090074,2016,AP-Cambio appartenenza Provincia,OT,104,SS,090,28/04/2016
+105001,091002,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+105002,091005,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+105003,091006,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+105004,091103,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+105005,091019,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+105006,091026,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+105007,091031,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+105008,091032,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+105009,091035,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+105010,091037,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+105011,091039,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+105012,091042,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+105013,091069,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+105014,091072,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+105015,111081,2016,AP-Cambio appartenenza Provincia,OG,105,SU,111,28/04/2016
+105016,091088,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+105017,091089,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+105018,091095,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+105019,091097,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+105020,091098,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+105021,091099,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+105022,091100,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+105023,091101,2016,AP-Cambio appartenenza Provincia,OG,105,NU,091,28/04/2016
+106001,111001,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106002,111005,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106003,111012,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106004,111022,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106005,111024,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106006,111027,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106007,111031,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106008,111034,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106009,111037,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106010,111038,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106011,111052,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106012,111053,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106013,111059,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106014,111062,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106015,111067,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106016,111072,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106017,111073,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106018,111077,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106019,111078,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106020,111080,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106021,111083,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106022,111091,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106023,111092,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106024,111094,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106025,111096,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106026,111097,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106027,111100,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+106028,111101,2016,AP-Cambio appartenenza Provincia,VS,106,SU,111,28/04/2016
+107001,111006,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107002,111008,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107003,111009,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107004,111010,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107005,111016,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107006,111021,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107007,111028,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107008,111030,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107009,111035,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107010,111040,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107011,111043,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107012,111044,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107013,111049,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107014,111054,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107015,111056,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107016,111057,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107017,111063,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107018,111068,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107019,111070,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107020,111071,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107021,111090,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107022,111098,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+107023,111102,2016,AP-Cambio appartenenza Provincia,CI,107,SU,111,28/04/2016
+017018,017154,2016,AQES-Acquisizione per estinzione,BS,017,BS,017,23/04/2016
+017154,017018,2016,ES-Estinzione,BS,017,BS,017,23/04/2016
+082045,082078,2016,AQ-Acquisizione territorio,PA,082,PA,082,15/04/2016
+082078,082045,2016,CE-Cessione territorio,PA,082,PA,082,15/04/2016
+025020,025072,2016,ES-Estinzione,BL,025,BL,025,23/02/2016
+025024,025073,2016,ES-Estinzione,BL,025,BL,025,23/02/2016
+025038,025072,2016,ES-Estinzione,BL,025,BL,025,23/02/2016
+025041,025072,2016,ES-Estinzione,BL,025,BL,025,23/02/2016
+025068,025073,2016,ES-Estinzione,BL,025,BL,025,23/02/2016
+025072,025020,2016,CS-Costituzione,BL,025,BL,025,23/02/2016
+025072,025038,2016,CS-Costituzione,BL,025,BL,025,23/02/2016
+025072,025041,2016,CS-Costituzione,BL,025,BL,025,23/02/2016
+025073,025024,2016,CS-Costituzione,BL,025,BL,025,23/02/2016
+025073,025068,2016,CS-Costituzione,BL,025,BL,025,23/02/2016
+018056,018192,2016,ES-Estinzione,PV,018,PV,018,01/01/2016
+018070,018192,2016,ES-Estinzione,PV,018,PV,018,01/01/2016
+018192,018056,2016,CS-Costituzione,PV,018,PV,018,01/01/2016
+018192,018070,2016,CS-Costituzione,PV,018,PV,018,01/01/2016
+022004,022237,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022019,022239,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022020,022246,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022023,022236,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022024,022246,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022028,022238,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022031,022243,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022055,022241,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022056,022236,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022057,022238,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022066,022238,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022069,022242,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022073,022244,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022075,022233,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022076,022237,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022082,022235,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022084,022245,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022086,022242,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022094,022235,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022096,022235,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022100,022246,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022101,022243,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022105,022241,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022121,022233,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022122,022247,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022125,022249,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022132,022248,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022140,022234,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022148,022247,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022149,022234,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022151,022247,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022158,022246,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022174,022245,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022178,022240,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022185,022240,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022187,022249,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022192,022248,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022194,022242,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022201,022245,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022204,022245,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022207,022249,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022208,022235,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022212,022236,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022215,022248,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022219,022236,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022220,022244,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022221,022240,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022223,022244,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022227,022239,2016,ES-Estinzione,TN,022,TN,022,01/01/2016
+022233,022075,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022233,022121,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022234,022140,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022234,022149,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022235,022082,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022235,022094,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022235,022096,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022235,022208,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022236,022023,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022236,022056,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022236,022212,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022236,022219,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022237,022004,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022237,022076,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022238,022028,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022238,022057,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022238,022066,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022239,022019,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022239,022227,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022240,022178,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022240,022185,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022240,022221,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022241,022055,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022241,022105,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022242,022069,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022242,022086,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022242,022194,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022243,022031,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022243,022101,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022244,022073,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022244,022220,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022244,022223,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022245,022084,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022245,022174,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022245,022201,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022245,022204,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022246,022020,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022246,022024,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022246,022100,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022246,022158,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022247,022122,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022247,022148,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022247,022151,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022248,022132,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022248,022192,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022248,022215,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022249,022125,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022249,022187,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+022249,022207,2016,CS-Costituzione,TN,022,TN,022,01/01/2016
+034029,034050,2016,ES-Estinzione,PR,034,PR,034,01/01/2016
+034048,034050,2016,ES-Estinzione,PR,034,PR,034,01/01/2016
+034050,034029,2016,CS-Costituzione,PR,034,PR,034,01/01/2016
+034050,034048,2016,CS-Costituzione,PR,034,PR,034,01/01/2016
+035007,035046,2016,ES-Estinzione,RE,035,RE,035,01/01/2016
+035019,035046,2016,ES-Estinzione,RE,035,RE,035,01/01/2016
+035025,035046,2016,ES-Estinzione,RE,035,RE,035,01/01/2016
+035031,035046,2016,ES-Estinzione,RE,035,RE,035,01/01/2016
+035046,035007,2016,CS-Costituzione,RE,035,RE,035,01/01/2016
+035046,035019,2016,CS-Costituzione,RE,035,RE,035,01/01/2016
+035046,035025,2016,CS-Costituzione,RE,035,RE,035,01/01/2016
+035046,035031,2016,CS-Costituzione,RE,035,RE,035,01/01/2016
+037029,037062,2016,ES-Estinzione,BO,237,BO,237,01/01/2016
+037049,037062,2016,ES-Estinzione,BO,237,BO,237,01/01/2016
+037062,037029,2016,CS-Costituzione,BO,237,BO,237,01/01/2016
+037062,037049,2016,CS-Costituzione,BO,237,BO,237,01/01/2016
+096011,096086,2016,ES-Estinzione,BI,096,BI,096,01/01/2016
+096022,096085,2016,ES-Estinzione,BI,096,BI,096,01/01/2016
+096029,096085,2016,ES-Estinzione,BI,096,BI,096,01/01/2016
+096052,096086,2016,ES-Estinzione,BI,096,BI,096,01/01/2016
+096060,096086,2016,ES-Estinzione,BI,096,BI,096,01/01/2016
+096085,096022,2016,CS-Costituzione,BI,096,BI,096,01/01/2016
+096085,096029,2016,CS-Costituzione,BI,096,BI,096,01/01/2016
+096086,096011,2016,CS-Costituzione,BI,096,BI,096,01/01/2016
+096086,096052,2016,CS-Costituzione,BI,096,BI,096,01/01/2016
+096086,096060,2016,CS-Costituzione,BI,096,BI,096,01/01/2016
+099007,099029,2016,ES-Estinzione,RN,099,RN,099,01/01/2016
+099010,099029,2016,ES-Estinzione,RN,099,RN,099,01/01/2016
+099029,099007,2016,CS-Costituzione,RN,099,RN,099,01/01/2016
+099029,099010,2016,CS-Costituzione,RN,099,RN,099,01/01/2016
+103063,103078,2016,ES-Estinzione,VB,103,VB,103,01/01/2016
+103073,103078,2016,ES-Estinzione,VB,103,VB,103,01/01/2016
+103078,103063,2016,CS-Costituzione,VB,103,VB,103,01/01/2016
+103078,103073,2016,CS-Costituzione,VB,103,VB,103,01/01/2016
+014032,014042,2015,AQES-Acquisizione per estinzione,SO,014,SO,014,25/11/2015
+014042,014032,2015,ES-Estinzione,SO,014,SO,014,25/11/2015
+004051,004051,2015,CD-Cambio denominazione,CN,004,CN,004,30/01/2015
+097066,097092,2015,ES-Estinzione,LC,097,LC,097,30/01/2015
+097073,097092,2015,ES-Estinzione,LC,097,LC,097,30/01/2015
+097092,097066,2015,CS-Costituzione,LC,097,LC,097,30/01/2015
+097092,097073,2015,CS-Costituzione,LC,097,LC,097,30/01/2015
+022012,022232,2015,ES-Estinzione,TN,022,TN,022,01/01/2015
+022067,022230,2015,ES-Estinzione,TN,022,TN,022,01/01/2015
+022072,022232,2015,ES-Estinzione,TN,022,TN,022,01/01/2015
+022077,022231,2015,ES-Estinzione,TN,022,TN,022,01/01/2015
+022146,022232,2015,ES-Estinzione,TN,022,TN,022,01/01/2015
+022166,022231,2015,ES-Estinzione,TN,022,TN,022,01/01/2015
+022175,022230,2015,ES-Estinzione,TN,022,TN,022,01/01/2015
+022186,022230,2015,ES-Estinzione,TN,022,TN,022,01/01/2015
+022206,022230,2015,ES-Estinzione,TN,022,TN,022,01/01/2015
+022214,022230,2015,ES-Estinzione,TN,022,TN,022,01/01/2015
+022230,022067,2015,CS-Costituzione,TN,022,TN,022,01/01/2015
+022230,022175,2015,CS-Costituzione,TN,022,TN,022,01/01/2015
+022230,022186,2015,CS-Costituzione,TN,022,TN,022,01/01/2015
+022230,022206,2015,CS-Costituzione,TN,022,TN,022,01/01/2015
+022230,022214,2015,CS-Costituzione,TN,022,TN,022,01/01/2015
+022231,022077,2015,CS-Costituzione,TN,022,TN,022,01/01/2015
+022231,022166,2015,CS-Costituzione,TN,022,TN,022,01/01/2015
+022232,022012,2015,CS-Costituzione,TN,022,TN,022,01/01/2015
+022232,022072,2015,CS-Costituzione,TN,022,TN,022,01/01/2015
+022232,022146,2015,CS-Costituzione,TN,022,TN,022,01/01/2015
+046016,046037,2015,ES-Estinzione,LU,046,LU,046,01/01/2015
+046029,046037,2015,ES-Estinzione,LU,046,LU,046,01/01/2015
+046037,046016,2015,CS-Costituzione,LU,046,LU,046,01/01/2015
+046037,046029,2015,CS-Costituzione,LU,046,LU,046,01/01/2015
+093003,093053,2015,ES-Estinzione,PN,093,PN,093,01/01/2015
+093048,093053,2015,ES-Estinzione,PN,093,PN,093,01/01/2015
+093053,093003,2015,CS-Costituzione,PN,093,PN,093,01/01/2015
+093053,093048,2015,CS-Costituzione,PN,093,PN,093,01/01/2015
+041013,041029,2014,CE-Cessione territorio,PU,041,PU,041,18/07/2014
+041029,041013,2014,AQ-Acquisizione territorio,PU,041,PU,041,18/07/2014
+030010,030048,2014,CE-Cessione territorio,UD,030,UD,030,19/06/2014
+030010,030048,2014,AQ-Acquisizione territorio,UD,030,UD,030,19/06/2014
+030048,030010,2014,CE-Cessione territorio,UD,030,UD,030,19/06/2014
+030048,030010,2014,AQ-Acquisizione territorio,UD,030,UD,030,19/06/2014
+023014,023014,2014,CD-Cambio denominazione,VR,023,VR,023,08/03/2014
+025009,025071,2014,ES-Estinzione,BL,025,BL,025,22/02/2014
+025031,025071,2014,ES-Estinzione,BL,025,BL,025,22/02/2014
+025071,025009,2014,CS-Costituzione,BL,025,BL,025,22/02/2014
+025071,025031,2014,CS-Costituzione,BL,025,BL,025,22/02/2014
+030031,030032,2014,AQ-Acquisizione territorio,UD,030,UD,030,20/02/2014
+030031,030032,2014,CE-Cessione territorio,UD,030,UD,030,20/02/2014
+030031,030039,2014,AQ-Acquisizione territorio,UD,030,UD,030,20/02/2014
+030031,030039,2014,CE-Cessione territorio,UD,030,UD,030,20/02/2014
+030031,030058,2014,AQ-Acquisizione territorio,UD,030,UD,030,20/02/2014
+030031,030058,2014,CE-Cessione territorio,UD,030,UD,030,20/02/2014
+030032,030031,2014,AQ-Acquisizione territorio,UD,030,UD,030,20/02/2014
+030032,030031,2014,CE-Cessione territorio,UD,030,UD,030,20/02/2014
+030032,030039,2014,AQ-Acquisizione territorio,UD,030,UD,030,20/02/2014
+030032,030039,2014,CE-Cessione territorio,UD,030,UD,030,20/02/2014
+030039,030031,2014,AQ-Acquisizione territorio,UD,030,UD,030,20/02/2014
+030039,030031,2014,CE-Cessione territorio,UD,030,UD,030,20/02/2014
+030039,030032,2014,CE-Cessione territorio,UD,030,UD,030,20/02/2014
+030039,030032,2014,AQ-Acquisizione territorio,UD,030,UD,030,20/02/2014
+030039,030109,2014,CE-Cessione territorio,UD,030,UD,030,20/02/2014
+030039,030109,2014,AQ-Acquisizione territorio,UD,030,UD,030,20/02/2014
+030058,030031,2014,CE-Cessione territorio,UD,030,UD,030,20/02/2014
+030058,030031,2014,AQ-Acquisizione territorio,UD,030,UD,030,20/02/2014
+030109,030039,2014,AQ-Acquisizione territorio,UD,030,UD,030,20/02/2014
+030109,030039,2014,CE-Cessione territorio,UD,030,UD,030,20/02/2014
+012094,012142,2014,ES-Estinzione,VA,012,VA,012,04/02/2014
+012112,012142,2014,ES-Estinzione,VA,012,VA,012,04/02/2014
+012135,012142,2014,ES-Estinzione,VA,012,VA,012,04/02/2014
+012142,012094,2014,CS-Costituzione,VA,012,VA,012,04/02/2014
+012142,012112,2014,CS-Costituzione,VA,012,VA,012,04/02/2014
+012142,012135,2014,CS-Costituzione,VA,012,VA,012,04/02/2014
+013019,013250,2014,ES-Estinzione,CO,013,CO,013,04/02/2014
+013070,013250,2014,ES-Estinzione,CO,013,CO,013,04/02/2014
+013093,013251,2014,ES-Estinzione,CO,013,CO,013,04/02/2014
+013109,013251,2014,ES-Estinzione,CO,013,CO,013,04/02/2014
+013125,013252,2014,ES-Estinzione,CO,013,CO,013,04/02/2014
+013148,013252,2014,ES-Estinzione,CO,013,CO,013,04/02/2014
+013172,013252,2014,ES-Estinzione,CO,013,CO,013,04/02/2014
+013175,013251,2014,ES-Estinzione,CO,013,CO,013,04/02/2014
+013225,013252,2014,ES-Estinzione,CO,013,CO,013,04/02/2014
+013250,013019,2014,CS-Costituzione,CO,013,CO,013,04/02/2014
+013250,013070,2014,CS-Costituzione,CO,013,CO,013,04/02/2014
+013251,013093,2014,CS-Costituzione,CO,013,CO,013,04/02/2014
+013251,013109,2014,CS-Costituzione,CO,013,CO,013,04/02/2014
+013251,013175,2014,CS-Costituzione,CO,013,CO,013,04/02/2014
+013252,013125,2014,CS-Costituzione,CO,013,CO,013,04/02/2014
+013252,013148,2014,CS-Costituzione,CO,013,CO,013,04/02/2014
+013252,013172,2014,CS-Costituzione,CO,013,CO,013,04/02/2014
+013252,013225,2014,CS-Costituzione,CO,013,CO,013,04/02/2014
+016039,016253,2014,ES-Estinzione,BG,016,BG,016,04/02/2014
+016112,016253,2014,ES-Estinzione,BG,016,BG,016,04/02/2014
+016192,016252,2014,ES-Estinzione,BG,016,BG,016,04/02/2014
+016228,016252,2014,ES-Estinzione,BG,016,BG,016,04/02/2014
+016252,016192,2014,CS-Costituzione,BG,016,BG,016,04/02/2014
+016252,016228,2014,CS-Costituzione,BG,016,BG,016,04/02/2014
+016253,016039,2014,CS-Costituzione,BG,016,BG,016,04/02/2014
+016253,016112,2014,CS-Costituzione,BG,016,BG,016,04/02/2014
+018010,018191,2014,ES-Estinzione,PV,018,PV,018,04/02/2014
+018055,018191,2014,ES-Estinzione,PV,018,PV,018,04/02/2014
+018191,018010,2014,CS-Costituzione,PV,018,PV,018,04/02/2014
+018191,018055,2014,CS-Costituzione,PV,018,PV,018,04/02/2014
+020005,020071,2014,ES-Estinzione,MN,020,MN,020,04/02/2014
+020069,020071,2014,ES-Estinzione,MN,020,MN,020,04/02/2014
+020071,020005,2014,CS-Costituzione,MN,020,MN,020,04/02/2014
+020071,020069,2014,CS-Costituzione,MN,020,MN,020,04/02/2014
+097087,097091,2014,ES-Estinzione,LC,097,LC,097,04/02/2014
+097088,097091,2014,ES-Estinzione,LC,097,LC,097,04/02/2014
+097091,097087,2014,CS-Costituzione,LC,097,LC,097,04/02/2014
+097091,097088,2014,CS-Costituzione,LC,097,LC,097,04/02/2014
+030096,030188,2014,ES-Estinzione,UD,030,UD,030,01/01/2014
+030119,030188,2014,ES-Estinzione,UD,030,UD,030,01/01/2014
+030188,030096,2014,CS-Costituzione,UD,030,UD,030,01/01/2014
+030188,030119,2014,CS-Costituzione,UD,030,UD,030,01/01/2014
+034034,034049,2014,ES-Estinzione,PR,034,PR,034,01/01/2014
+034043,034049,2014,ES-Estinzione,PR,034,PR,034,01/01/2014
+034049,034034,2014,CS-Costituzione,PR,034,PR,034,01/01/2014
+034049,034043,2014,CS-Costituzione,PR,034,PR,034,01/01/2014
+037004,037061,2014,ES-Estinzione,BO,037,BO,037,01/01/2014
+037018,037061,2014,ES-Estinzione,BO,037,BO,037,01/01/2014
+037023,037061,2014,ES-Estinzione,BO,037,BO,037,01/01/2014
+037043,037061,2014,ES-Estinzione,BO,037,BO,037,01/01/2014
+037058,037061,2014,ES-Estinzione,BO,037,BO,037,01/01/2014
+037061,037004,2014,CS-Costituzione,BO,037,BO,037,01/01/2014
+037061,037018,2014,CS-Costituzione,BO,037,BO,037,01/01/2014
+037061,037023,2014,CS-Costituzione,BO,037,BO,037,01/01/2014
+037061,037043,2014,CS-Costituzione,BO,037,BO,037,01/01/2014
+037061,037058,2014,CS-Costituzione,BO,037,BO,037,01/01/2014
+038013,038027,2014,ES-Estinzione,FE,038,FE,038,01/01/2014
+038015,038027,2014,ES-Estinzione,FE,038,FE,038,01/01/2014
+038026,038027,2014,ES-Estinzione,FE,038,FE,038,01/01/2014
+038027,038013,2014,CS-Costituzione,FE,038,FE,038,01/01/2014
+038027,038015,2014,CS-Costituzione,FE,038,FE,038,01/01/2014
+038027,038026,2014,CS-Costituzione,FE,038,FE,038,01/01/2014
+041012,041068,2014,ES-Estinzione,PU,041,PU,041,01/01/2014
+041056,041068,2014,ES-Estinzione,PU,041,PU,041,01/01/2014
+041068,041012,2014,CS-Costituzione,PU,041,PU,041,01/01/2014
+041068,041056,2014,CS-Costituzione,PU,041,PU,041,01/01/2014
+042009,042050,2014,ES-Estinzione,AN,042,AN,042,01/01/2014
+042028,042050,2014,ES-Estinzione,AN,042,AN,042,01/01/2014
+042039,042050,2014,ES-Estinzione,AN,042,AN,042,01/01/2014
+042050,042009,2014,CS-Costituzione,AN,042,AN,042,01/01/2014
+042050,042028,2014,CS-Costituzione,AN,042,AN,042,01/01/2014
+042050,042039,2014,CS-Costituzione,AN,042,AN,042,01/01/2014
+046012,046036,2014,ES-Estinzione,LU,046,LU,046,01/01/2014
+046032,046036,2014,ES-Estinzione,LU,046,LU,046,01/01/2014
+046036,046012,2014,CS-Costituzione,LU,046,LU,046,01/01/2014
+046036,046032,2014,CS-Costituzione,LU,046,LU,046,01/01/2014
+048016,048052,2014,ES-Estinzione,FI,048,FI,048,01/01/2014
+048023,048052,2014,ES-Estinzione,FI,048,FI,048,01/01/2014
+048040,048053,2014,ES-Estinzione,FI,048,FI,048,01/01/2014
+048042,048053,2014,ES-Estinzione,FI,048,FI,048,01/01/2014
+048052,048016,2014,CS-Costituzione,FI,048,FI,048,01/01/2014
+048052,048023,2014,CS-Costituzione,FI,048,FI,048,01/01/2014
+048053,048040,2014,CS-Costituzione,FI,048,FI,048,01/01/2014
+048053,048042,2014,CS-Costituzione,FI,048,FI,048,01/01/2014
+050007,050040,2014,ES-Estinzione,PI,050,PI,050,01/01/2014
+050013,050041,2014,ES-Estinzione,PI,050,PI,050,01/01/2014
+050017,050040,2014,ES-Estinzione,PI,050,PI,050,01/01/2014
+050018,050041,2014,ES-Estinzione,PI,050,PI,050,01/01/2014
+050040,050007,2014,CS-Costituzione,PI,050,PI,050,01/01/2014
+050040,050017,2014,CS-Costituzione,PI,050,PI,050,01/01/2014
+050041,050013,2014,CS-Costituzione,PI,050,PI,050,01/01/2014
+050041,050018,2014,CS-Costituzione,PI,050,PI,050,01/01/2014
+051009,051040,2014,ES-Estinzione,AR,051,AR,051,01/01/2014
+051029,051040,2014,ES-Estinzione,AR,051,AR,051,01/01/2014
+051032,051041,2014,ES-Estinzione,AR,051,AR,051,01/01/2014
+051036,051041,2014,ES-Estinzione,AR,051,AR,051,01/01/2014
+051040,051009,2014,CS-Costituzione,AR,051,AR,051,01/01/2014
+051040,051029,2014,CS-Costituzione,AR,051,AR,051,01/01/2014
+051041,051032,2014,CS-Costituzione,AR,051,AR,051,01/01/2014
+051041,051036,2014,CS-Costituzione,AR,051,AR,051,01/01/2014
+099012,099028,2014,ES-Estinzione,RN,099,RN,099,01/01/2014
+099019,099028,2014,ES-Estinzione,RN,099,RN,099,01/01/2014
+099028,099012,2014,CS-Costituzione,RN,099,RN,099,01/01/2014
+099028,099019,2014,CS-Costituzione,RN,099,RN,099,01/01/2014
+025042,025070,2013,ES-Estinzione,BL,025,BL,025,28/12/2013
+025064,025070,2013,ES-Estinzione,BL,025,BL,025,28/12/2013
+025070,025042,2013,CS-Costituzione,BL,025,BL,025,28/12/2013
+025070,025064,2013,CS-Costituzione,BL,025,BL,025,28/12/2013
+064061,064121,2013,ES-Estinzione,AV,064,AV,064,03/12/2013
+064062,064121,2013,ES-Estinzione,AV,064,AV,064,03/12/2013
+064121,064061,2013,CS-Costituzione,AV,064,AV,064,03/12/2013
+064121,064062,2013,CS-Costituzione,AV,064,AV,064,03/12/2013
+013036,013102,2013,CE-Cessione territorio,CO,013,CO,013,12/11/2013
+013036,013102,2013,AQ-Acquisizione territorio,CO,013,CO,013,12/11/2013
+013102,013036,2013,CE-Cessione territorio,CO,013,CO,013,12/11/2013
+013102,013036,2013,AQ-Acquisizione territorio,CO,013,CO,013,12/11/2013
+013138,013245,2013,AQ-Acquisizione territorio,CO,013,CO,013,12/11/2013
+013245,013138,2013,CE-Cessione territorio,CO,013,CO,013,12/11/2013
+017189,017189,2013,CD-Cambio denominazione,BS,017,BS,017,12/11/2013
+021011,021111,2013,CE-Cessione territorio,BZ,021,BZ,021,17/05/2013
+021111,021011,2013,AQ-Acquisizione territorio,BZ,021,BZ,021,17/05/2013
+022025,022123,2013,AQ-Acquisizione territorio,TN,022,TN,022,05/02/2013
+022123,022025,2013,CE-Cessione territorio,TN,022,TN,022,05/02/2013
+030009,030027,2012,CE-Cessione territorio,UD,030,UD,030,19/07/2012
+030009,030058,2012,AQ-Acquisizione territorio,UD,030,UD,030,19/07/2012
+030027,030009,2012,AQ-Acquisizione territorio,UD,030,UD,030,19/07/2012
+030027,030058,2012,CE-Cessione territorio,UD,030,UD,030,19/07/2012
+030058,030009,2012,CE-Cessione territorio,UD,030,UD,030,19/07/2012
+030058,030027,2012,AQ-Acquisizione territorio,UD,030,UD,030,19/07/2012
+018073,018073,2012,CD-Cambio denominazione,PV,018,PV,018,30/06/2012
+030098,030134,2012,CE-Cessione territorio,UD,030,UD,030,21/06/2012
+030134,030098,2012,AQ-Acquisizione territorio,UD,030,UD,030,21/06/2012
+075035,075079,2011,CE-Cessione territorio,LE,075,LE,075,02/12/2011
+075035,075079,2011,AQ-Acquisizione territorio,LE,075,LE,075,02/12/2011
+075035,075087,2011,CE-Cessione territorio,LE,075,LE,075,02/12/2011
+075035,075087,2011,AQ-Acquisizione territorio,LE,075,LE,075,02/12/2011
+075079,075035,2011,AQ-Acquisizione territorio,LE,075,LE,075,02/12/2011
+075079,075035,2011,CE-Cessione territorio,LE,075,LE,075,02/12/2011
+075087,075035,2011,AQ-Acquisizione territorio,LE,075,LE,075,02/12/2011
+075087,075035,2011,CE-Cessione territorio,LE,075,LE,075,02/12/2011
+030024,030101,2011,AQ-Acquisizione territorio,UD,030,UD,030,20/10/2011
+030101,030024,2011,CE-Cessione territorio,UD,030,UD,030,20/10/2011
+030070,030135,2011,CE-Cessione territorio,UD,030,UD,030,15/09/2011
+030135,030070,2011,AQ-Acquisizione territorio,UD,030,UD,030,15/09/2011
+016037,016051,2011,AQ-Acquisizione territorio,BG,016,BG,016,01/09/2011
+016037,016051,2011,CE-Cessione territorio,BG,016,BG,016,01/09/2011
+016051,016037,2011,CE-Cessione territorio,BG,016,BG,016,01/09/2011
+016051,016037,2011,AQ-Acquisizione territorio,BG,016,BG,016,01/09/2011
+082040,082046,2011,AQ-Acquisizione territorio,PA,082,PA,082,12/08/2011
+082046,082040,2011,CE-Cessione territorio,PA,082,PA,082,12/08/2011
+082070,082073,2011,AQ-Acquisizione territorio,PA,082,PA,082,12/08/2011
+082070,082073,2011,CE-Cessione territorio,PA,082,PA,082,12/08/2011
+082073,082070,2011,CE-Cessione territorio,PA,082,PA,082,12/08/2011
+082073,082070,2011,AQ-Acquisizione territorio,PA,082,PA,082,12/08/2011
+021058,021059,2011,CE-Cessione territorio,BZ,021,BZ,021,16/05/2011
+021059,021058,2011,AQ-Acquisizione territorio,BZ,021,BZ,021,16/05/2011
+091073,104009,2011,CE-Cessione territorio,NU,091,OT,104,13/02/2011
+091073,104009,2011,AQ-Acquisizione territorio,NU,091,OT,104,13/02/2011
+095006,095065,2011,AQ-Acquisizione territorio,OR,095,OR,095,13/02/2011
+095006,095065,2011,CE-Cessione territorio,OR,095,OR,095,13/02/2011
+095065,095006,2011,CE-Cessione territorio,OR,095,OR,095,13/02/2011
+095065,095006,2011,AQ-Acquisizione territorio,OR,095,OR,095,13/02/2011
+104009,091073,2011,CE-Cessione territorio,OT,104,NU,091,13/02/2011
+104009,091073,2011,AQ-Acquisizione territorio,OT,104,NU,091,13/02/2011
+104009,104023,2011,AQ-Acquisizione territorio,OT,104,OT,104,13/02/2011
+104009,104023,2011,CE-Cessione territorio,OT,104,OT,104,13/02/2011
+104023,104009,2011,CE-Cessione territorio,OT,104,OT,104,13/02/2011
+104023,104009,2011,AQ-Acquisizione territorio,OT,104,OT,104,13/02/2011
+013076,013249,2011,ES-Estinzione,CO,013,CO,013,11/02/2011
+013108,013249,2011,ES-Estinzione,CO,013,CO,013,11/02/2011
+013112,013249,2011,ES-Estinzione,CO,013,CO,013,11/02/2011
+013249,013076,2011,CS-Costituzione,CO,013,CO,013,11/02/2011
+013249,013108,2011,CS-Costituzione,CO,013,CO,013,11/02/2011
+013249,013112,2011,CS-Costituzione,CO,013,CO,013,11/02/2011
+042018,042027,2010,CE-Cessione territorio,AN,042,AN,042,02/03/2010
+042027,042018,2010,AQ-Acquisizione territorio,AN,042,AN,042,02/03/2010
+015185,015237,2010,CE-Cessione territorio,MI,015,MI,015,27/02/2010
+015237,015185,2010,AQ-Acquisizione territorio,MI,015,MI,015,27/02/2010
+016024,016150,2010,CE-Cessione territorio,BG,016,BG,016,13/02/2010
+016150,016024,2010,AQ-Acquisizione territorio,BG,016,BG,016,13/02/2010
+022014,022229,2010,ES-Estinzione,TN,022,TN,022,01/01/2010
+022016,022228,2010,ES-Estinzione,TN,022,TN,022,01/01/2010
+022065,022229,2010,ES-Estinzione,TN,022,TN,022,01/01/2010
+022107,022228,2010,ES-Estinzione,TN,022,TN,022,01/01/2010
+022119,022229,2010,ES-Estinzione,TN,022,TN,022,01/01/2010
+022141,022229,2010,ES-Estinzione,TN,022,TN,022,01/01/2010
+022197,022229,2010,ES-Estinzione,TN,022,TN,022,01/01/2010
+022198,022229,2010,ES-Estinzione,TN,022,TN,022,01/01/2010
+022228,022016,2010,CS-Costituzione,TN,022,TN,022,01/01/2010
+022228,022107,2010,CS-Costituzione,TN,022,TN,022,01/01/2010
+022229,022014,2010,CS-Costituzione,TN,022,TN,022,01/01/2010
+022229,022065,2010,CS-Costituzione,TN,022,TN,022,01/01/2010
+022229,022119,2010,CS-Costituzione,TN,022,TN,022,01/01/2010
+022229,022141,2010,CS-Costituzione,TN,022,TN,022,01/01/2010
+022229,022197,2010,CS-Costituzione,TN,022,TN,022,01/01/2010
+022229,022198,2010,CS-Costituzione,TN,022,TN,022,01/01/2010
+015039,108051,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,18/12/2009
+015047,108052,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,18/12/2009
+015088,108053,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,18/12/2009
+015119,108054,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,18/12/2009
+015186,108055,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,18/12/2009
+013029,013048,2009,CE-Cessione territorio,CO,013,CO,013,23/08/2009
+013029,013048,2009,AQ-Acquisizione territorio,CO,013,CO,013,23/08/2009
+013048,013029,2009,AQ-Acquisizione territorio,CO,013,CO,013,23/08/2009
+013048,013029,2009,CE-Cessione territorio,CO,013,CO,013,23/08/2009
+041011,099021,2009,AP-Cambio appartenenza Provincia,PU,041,RN,099,15/08/2009
+041024,099022,2009,AP-Cambio appartenenza Provincia,PU,041,RN,099,15/08/2009
+041039,099023,2009,AP-Cambio appartenenza Provincia,PU,041,RN,099,15/08/2009
+041042,099024,2009,AP-Cambio appartenenza Provincia,PU,041,RN,099,15/08/2009
+041053,099025,2009,AP-Cambio appartenenza Provincia,PU,041,RN,099,15/08/2009
+041055,099026,2009,AP-Cambio appartenenza Provincia,PU,041,RN,099,15/08/2009
+041063,099027,2009,AP-Cambio appartenenza Provincia,PU,041,RN,099,15/08/2009
+018122,018122,2009,CD-Cambio denominazione,PV,018,PV,018,30/07/2009
+071030,110005,2009,AP-Cambio appartenenza Provincia,FG,071,BT,110,27/07/2009
+071045,110007,2009,AP-Cambio appartenenza Provincia,FG,071,BT,110,27/07/2009
+071057,110010,2009,AP-Cambio appartenenza Provincia,FG,071,BT,110,27/07/2009
+072005,110001,2009,AP-Cambio appartenenza Provincia,BA,072,BT,110,27/07/2009
+072007,110002,2009,AP-Cambio appartenenza Provincia,BA,072,BT,110,27/07/2009
+072009,110003,2009,AP-Cambio appartenenza Provincia,BA,072,BT,110,27/07/2009
+072013,110004,2009,AP-Cambio appartenenza Provincia,BA,072,BT,110,27/07/2009
+072026,110006,2009,AP-Cambio appartenenza Provincia,BA,072,BT,110,27/07/2009
+072042,110008,2009,AP-Cambio appartenenza Provincia,BA,072,BT,110,27/07/2009
+072045,110009,2009,AP-Cambio appartenenza Provincia,BA,072,BT,110,27/07/2009
+044003,109001,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044004,109002,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044008,109003,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044009,109004,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044018,109005,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044019,109006,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044022,109007,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044024,109008,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044025,109009,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044026,109010,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044028,109011,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044030,109012,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044033,109013,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044035,109014,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044037,109015,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044039,109016,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044040,109017,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044041,109018,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044042,109019,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044043,109020,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044046,109021,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044047,109022,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044048,109023,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044049,109024,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044050,109025,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044051,109026,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044052,109027,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044053,109028,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044055,109029,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044057,109030,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044058,109031,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044059,109032,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044060,109033,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044061,109034,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044062,109035,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044067,109036,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044068,109037,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044069,109038,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044070,109039,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+044072,109040,2009,AP-Cambio appartenenza Provincia,AP,044,FM,109,12/07/2009
+015003,108001,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015004,108002,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015006,108003,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015008,108004,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015013,108005,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015017,108006,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015018,108007,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015021,108008,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015023,108009,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015030,108010,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015033,108011,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015034,108012,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015037,108013,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015045,108014,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015048,108015,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015049,108016,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015068,108017,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015069,108018,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015075,108019,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015080,108020,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015084,108021,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015092,108022,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015100,108023,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015107,108024,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015117,108025,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015120,108026,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015121,108027,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015123,108028,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015129,108029,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015138,108030,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015145,108031,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015147,108032,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015149,108033,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015152,108034,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015156,108035,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015161,108036,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015180,108037,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015187,108038,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015208,108039,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015212,108040,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015216,108041,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015217,108042,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015223,108043,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015227,108044,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015231,108045,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015232,108046,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015233,108047,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015234,108048,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015239,108049,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+015241,108050,2009,AP-Cambio appartenenza Provincia,MI,015,MB,108,30/06/2009
+093011,093016,2009,CE-Cessione territorio,PN,093,PN,093,16/04/2009
+093016,093011,2009,AQ-Acquisizione territorio,PN,093,PN,093,16/04/2009
+078030,078102,2009,AQ-Acquisizione territorio,CS,078,CS,078,02/04/2009
+078102,078030,2009,CE-Cessione territorio,CS,078,CS,078,02/04/2009
+031003,031003,2009,CD-Cambio denominazione,GO,031,GO,031,29/01/2009
+031019,031019,2009,CD-Cambio denominazione,GO,031,GO,031,29/01/2009
+031022,031022,2009,CD-Cambio denominazione,GO,031,GO,031,29/01/2009
+032001,032001,2009,CD-Cambio denominazione,TS,032,TS,032,29/01/2009
+032002,032002,2009,CD-Cambio denominazione,TS,032,TS,032,29/01/2009
+032005,032005,2009,CD-Cambio denominazione,TS,032,TS,032,29/01/2009
+030017,030138,2009,ES-Estinzione,UD,030,UD,030,01/01/2009
+030115,030138,2009,ES-Estinzione,UD,030,UD,030,01/01/2009
+030138,030017,2009,CS-Costituzione,UD,030,UD,030,01/01/2009
+030138,030115,2009,CS-Costituzione,UD,030,UD,030,01/01/2009
+022029,022029,2008,CD-Cambio denominazione,TN,022,TN,022,15/10/2008
+022037,022074,2008,CE-Cessione territorio,TN,022,TN,022,15/10/2008
+022074,022037,2008,AQ-Acquisizione territorio,TN,022,TN,022,15/10/2008
+018008,018026,2008,CE-Cessione territorio,PV,018,PV,018,16/08/2008
+018026,018008,2008,AQ-Acquisizione territorio,PV,018,PV,018,16/08/2008
+082007,082054,2008,AQ-Acquisizione territorio,PA,082,PA,082,24/05/2008
+082018,082034,2008,CE-Cessione territorio,PA,082,PA,082,24/05/2008
+082018,082034,2008,AQ-Acquisizione territorio,PA,082,PA,082,24/05/2008
+082034,082018,2008,AQ-Acquisizione territorio,PA,082,PA,082,24/05/2008
+082034,082018,2008,CE-Cessione territorio,PA,082,PA,082,24/05/2008
+082054,082007,2008,CE-Cessione territorio,PA,082,PA,082,24/05/2008
+021102,021102,2008,CD-Cambio denominazione,BZ,021,BZ,021,19/03/2008
+006009,006081,2008,AQ-Acquisizione territorio,AL,006,AL,006,01/01/2008
+006081,006009,2008,CE-Cessione territorio,AL,006,AL,006,01/01/2008
+100001,100006,2007,AQ-Acquisizione territorio,PO,100,PO,100,15/11/2007
+100006,100001,2007,CE-Cessione territorio,PO,100,PO,100,15/11/2007
+030010,030048,2007,AQ-Acquisizione territorio,UD,030,UD,030,08/11/2007
+030010,030048,2007,CE-Cessione territorio,UD,030,UD,030,08/11/2007
+030048,030010,2007,CE-Cessione territorio,UD,030,UD,030,08/11/2007
+030048,030010,2007,AQ-Acquisizione territorio,UD,030,UD,030,08/11/2007
+017092,017092,2007,CD-Cambio denominazione,BS,017,BS,017,02/11/2007
+023004,023098,2007,CE-Cessione territorio,VR,023,VR,023,01/08/2007
+023004,023098,2007,AQ-Acquisizione territorio,VR,023,VR,023,01/08/2007
+023098,023004,2007,CE-Cessione territorio,VR,023,VR,023,01/08/2007
+023098,023004,2007,AQ-Acquisizione territorio,VR,023,VR,023,01/08/2007
+050004,050029,2007,CE-Cessione territorio,PI,050,PI,050,26/04/2007
+050004,050029,2007,AQ-Acquisizione territorio,PI,050,PI,050,26/04/2007
+050029,050004,2007,AQ-Acquisizione territorio,PI,050,PI,050,26/04/2007
+050029,050004,2007,CE-Cessione territorio,PI,050,PI,050,26/04/2007
+075020,075038,2007,AQ-Acquisizione territorio,LE,075,LE,075,12/01/2007
+075020,075038,2007,CE-Cessione territorio,LE,075,LE,075,12/01/2007
+075038,075020,2007,AQ-Acquisizione territorio,LE,075,LE,075,12/01/2007
+075038,075020,2007,CE-Cessione territorio,LE,075,LE,075,12/01/2007
+016093,016204,2006,CE-Cessione territorio,BG,016,BG,016,30/12/2006
+016093,016204,2006,AQ-Acquisizione territorio,BG,016,BG,016,30/12/2006
+016204,016093,2006,CE-Cessione territorio,BG,016,BG,016,30/12/2006
+016204,016093,2006,AQ-Acquisizione territorio,BG,016,BG,016,30/12/2006
+030031,030095,2006,AQ-Acquisizione territorio,UD,030,UD,030,30/11/2006
+030031,030095,2006,CE-Cessione territorio,UD,030,UD,030,30/11/2006
+030083,030091,2006,CE-Cessione territorio,UD,030,UD,030,30/11/2006
+030083,030091,2006,AQ-Acquisizione territorio,UD,030,UD,030,30/11/2006
+030091,030083,2006,AQ-Acquisizione territorio,UD,030,UD,030,30/11/2006
+030091,030083,2006,CE-Cessione territorio,UD,030,UD,030,30/11/2006
+030095,030031,2006,CE-Cessione territorio,UD,030,UD,030,30/11/2006
+030095,030031,2006,AQ-Acquisizione territorio,UD,030,UD,030,30/11/2006
+014001,014045,2006,AQ-Acquisizione territorio,SO,014,SO,014,09/08/2006
+014045,014001,2006,CE-Cessione territorio,SO,014,SO,014,09/08/2006
+030011,030062,2006,AQ-Acquisizione territorio,UD,030,UD,030,20/07/2006
+030011,030062,2006,CE-Cessione territorio,UD,030,UD,030,20/07/2006
+030011,030074,2006,AQ-Acquisizione territorio,UD,030,UD,030,20/07/2006
+030011,030074,2006,CE-Cessione territorio,UD,030,UD,030,20/07/2006
+030062,030011,2006,AQ-Acquisizione territorio,UD,030,UD,030,20/07/2006
+030062,030011,2006,CE-Cessione territorio,UD,030,UD,030,20/07/2006
+030062,030074,2006,CE-Cessione territorio,UD,030,UD,030,20/07/2006
+030062,030074,2006,AQ-Acquisizione territorio,UD,030,UD,030,20/07/2006
+030074,030011,2006,CE-Cessione territorio,UD,030,UD,030,20/07/2006
+030074,030011,2006,AQ-Acquisizione territorio,UD,030,UD,030,20/07/2006
+030074,030062,2006,CE-Cessione territorio,UD,030,UD,030,20/07/2006
+030074,030062,2006,AQ-Acquisizione territorio,UD,030,UD,030,20/07/2006
+068028,068041,2006,CE-Cessione territorio,PE,068,PE,068,13/07/2006
+068041,068028,2006,AQ-Acquisizione territorio,PE,068,PE,068,13/07/2006
+018011,018038,2006,CE-Cessione territorio,PV,018,PV,018,12/05/2006
+018011,018038,2006,AQ-Acquisizione territorio,PV,018,PV,018,12/05/2006
+018038,018011,2006,CE-Cessione territorio,PV,018,PV,018,12/05/2006
+018038,018011,2006,AQ-Acquisizione territorio,PV,018,PV,018,12/05/2006
+073023,073027,2006,AQ-Acquisizione territorio,TA,073,TA,073,10/03/2006
+073023,073027,2006,CE-Cessione territorio,TA,073,TA,073,10/03/2006
+073027,073023,2006,AQ-Acquisizione territorio,TA,073,TA,073,10/03/2006
+073027,073023,2006,CE-Cessione territorio,TA,073,TA,073,10/03/2006
+016086,016128,2006,CE-Cessione territorio,BG,016,BG,016,04/03/2006
+016128,016086,2006,AQ-Acquisizione territorio,BG,016,BG,016,04/03/2006
+030017,030115,2006,CE-Cessione territorio,UD,030,UD,030,09/02/2006
+030115,030017,2006,AQ-Acquisizione territorio,UD,030,UD,030,09/02/2006
+045004,045007,2006,CE-Cessione territorio,MS,045,MS,045,07/01/2006
+045007,045004,2006,AQ-Acquisizione territorio,MS,045,MS,045,07/01/2006
+090001,104001,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090002,104003,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090006,104004,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090009,104006,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090014,104007,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090017,104008,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090021,104010,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090035,104012,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090036,104014,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090037,104015,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090041,104016,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090047,104017,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090049,104018,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090054,104020,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090062,104002,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090063,104022,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090070,104025,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090074,104026,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090080,104024,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090081,104005,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090083,104011,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090084,104013,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090085,104021,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+090090,104019,2006,AP-Cambio appartenenza Provincia,SS,090,OT,104,01/01/2006
+091002,105001,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091005,105002,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091006,105003,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091013,095079,2006,AP-Cambio appartenenza Provincia,NU,091,OR,095,01/01/2006
+091014,104009,2006,AP-Cambio appartenenza Provincia,NU,091,OT,104,01/01/2006
+091019,105005,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091020,092110,2006,AP-Cambio appartenenza Provincia,NU,091,CA,092,01/01/2006
+091021,092111,2006,AP-Cambio appartenenza Provincia,NU,091,CA,092,01/01/2006
+091022,092112,2006,AP-Cambio appartenenza Provincia,NU,091,CA,092,01/01/2006
+091023,095080,2006,AP-Cambio appartenenza Provincia,NU,091,OR,095,01/01/2006
+091026,105006,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091029,095081,2006,AP-Cambio appartenenza Provincia,NU,091,OR,095,01/01/2006
+091030,092113,2006,AP-Cambio appartenenza Provincia,NU,091,CA,092,01/01/2006
+091031,105007,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091032,105008,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091034,092114,2006,AP-Cambio appartenenza Provincia,NU,091,CA,092,01/01/2006
+091035,105009,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091036,095082,2006,AP-Cambio appartenenza Provincia,NU,091,OR,095,01/01/2006
+091037,105010,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091039,105011,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091042,105012,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091045,095083,2006,AP-Cambio appartenenza Provincia,NU,091,OR,095,01/01/2006
+091048,095084,2006,AP-Cambio appartenenza Provincia,NU,091,OR,095,01/01/2006
+091049,095085,2006,AP-Cambio appartenenza Provincia,NU,091,OR,095,01/01/2006
+091052,092115,2006,AP-Cambio appartenenza Provincia,NU,091,CA,092,01/01/2006
+091053,092116,2006,AP-Cambio appartenenza Provincia,NU,091,CA,092,01/01/2006
+091054,092117,2006,AP-Cambio appartenenza Provincia,NU,091,CA,092,01/01/2006
+091065,092118,2006,AP-Cambio appartenenza Provincia,NU,091,CA,092,01/01/2006
+091069,105013,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091072,105014,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091074,092119,2006,AP-Cambio appartenenza Provincia,NU,091,CA,092,01/01/2006
+091075,095086,2006,AP-Cambio appartenenza Provincia,NU,091,OR,095,01/01/2006
+091076,104023,2006,AP-Cambio appartenenza Provincia,NU,091,OT,104,01/01/2006
+091080,092120,2006,AP-Cambio appartenenza Provincia,NU,091,CA,092,01/01/2006
+091081,105015,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091082,092121,2006,AP-Cambio appartenenza Provincia,NU,091,CA,092,01/01/2006
+091087,095087,2006,AP-Cambio appartenenza Provincia,NU,091,OR,095,01/01/2006
+091088,105016,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091089,105017,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091092,095088,2006,AP-Cambio appartenenza Provincia,NU,091,OR,095,01/01/2006
+091095,105018,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091097,105019,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091098,105020,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091099,105021,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091100,105022,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091101,105023,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+091102,092122,2006,AP-Cambio appartenenza Provincia,NU,091,CA,092,01/01/2006
+091103,105004,2006,AP-Cambio appartenenza Provincia,NU,091,OG,105,01/01/2006
+092001,106001,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092006,106002,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092007,107001,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092010,107002,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092012,107003,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092013,107004,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092014,106003,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092019,107005,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092021,107006,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092022,106004,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092023,106005,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092025,106006,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092026,107007,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092028,107008,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092029,106007,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092032,106008,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092033,107009,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092034,106009,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092035,106010,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092040,107011,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092041,107012,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092043,107013,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092045,106011,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092046,106012,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092047,107014,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092049,107016,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092052,106013,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092055,106014,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092056,107017,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092057,106015,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092060,107018,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092062,107019,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092063,107020,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092065,106016,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092067,106017,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092072,106018,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092073,106019,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092076,106020,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092077,106021,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092085,107021,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092086,106022,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092087,106023,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092089,106024,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092092,106025,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092093,106026,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092094,107022,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092095,106027,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092096,106028,2006,AP-Cambio appartenenza Provincia,CA,092,VS,106,01/01/2006
+092103,107010,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092104,107023,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+092107,107015,2006,AP-Cambio appartenenza Provincia,CA,092,CI,107,01/01/2006
+022162,022162,2005,CD-Cambio denominazione,TN,022,TN,022,11/05/2005
+021029,021053,2005,AQ-Acquisizione territorio,BZ,021,BZ,021,04/05/2005
+021053,021029,2005,CE-Cessione territorio,BZ,021,BZ,021,04/05/2005
+022156,022156,2005,CD-Cambio denominazione,TN,022,TN,022,04/05/2005
+015134,015164,2005,AQ-Acquisizione territorio,MI,015,MI,015,19/02/2005
+015164,015134,2005,CE-Cessione territorio,MI,015,MI,015,19/02/2005
+018110,018135,2005,CE-Cessione territorio,PV,018,PV,018,19/02/2005
+018135,018110,2005,AQ-Acquisizione territorio,PV,018,PV,018,19/02/2005
+018023,018119,2005,CE-Cessione territorio,PV,018,PV,018,08/01/2005
+018119,018023,2005,AQ-Acquisizione territorio,PV,018,PV,018,08/01/2005
+037040,037051,2004,CE-Cessione territorio,BO,037,BO,037,26/10/2004
+037040,037051,2004,AQ-Acquisizione territorio,BO,037,BO,037,26/10/2004
+037051,037040,2004,AQ-Acquisizione territorio,BO,037,BO,037,26/10/2004
+037051,037040,2004,CE-Cessione territorio,BO,037,BO,037,26/10/2004
+018119,018162,2004,CE-Cessione territorio,PV,018,PV,018,28/08/2004
+018162,018119,2004,AQ-Acquisizione territorio,PV,018,PV,018,28/08/2004
+016192,016192,2004,CD-Cambio denominazione,BG,016,BG,016,14/08/2004
+037009,037050,2004,AQ-Acquisizione territorio,BO,037,BO,037,01/07/2004
+037009,037050,2004,CE-Cessione territorio,BO,037,BO,037,01/07/2004
+037050,037009,2004,AQ-Acquisizione territorio,BO,037,BO,037,01/07/2004
+037050,037009,2004,CE-Cessione territorio,BO,037,BO,037,01/07/2004
+015027,015250,2004,CECS-Cessione territorio per costituzione nuova unità,MI,015,MI,015,08/06/2004
+015250,015027,2004,CS-Costituzione,MI,015,MI,015,08/06/2004
+097009,097021,2004,AQ-Acquisizione territorio,LC,097,LC,097,08/06/2004
+097021,097009,2004,CE-Cessione territorio,LC,097,LC,097,08/06/2004
+098018,098041,2004,AQ-Acquisizione territorio,LO,098,LO,098,08/06/2004
+098018,098041,2004,CE-Cessione territorio,LO,098,LO,098,08/06/2004
+098041,098018,2004,AQ-Acquisizione territorio,LO,098,LO,098,08/06/2004
+098041,098018,2004,CE-Cessione territorio,LO,098,LO,098,08/06/2004
+071036,071063,2004,AQ-Acquisizione territorio,FG,071,FG,071,04/06/2004
+071036,071063,2004,CE-Cessione territorio,FG,071,FG,071,04/06/2004
+071063,071036,2004,AQ-Acquisizione territorio,FG,071,FG,071,04/06/2004
+071063,071036,2004,CE-Cessione territorio,FG,071,FG,071,04/06/2004
+075029,075075,2004,AQ-Acquisizione territorio,LE,075,LE,075,12/05/2004
+075029,075075,2004,CE-Cessione territorio,LE,075,LE,075,12/05/2004
+075075,075029,2004,AQ-Acquisizione territorio,LE,075,LE,075,12/05/2004
+075075,075029,2004,CE-Cessione territorio,LE,075,LE,075,12/05/2004
+015117,015119,2004,CE-Cessione territorio,MI,015,MI,015,10/04/2004
+015119,015117,2004,AQ-Acquisizione territorio,MI,015,MI,015,10/04/2004
+030052,030116,2004,AQ-Acquisizione territorio,UD,030,UD,030,01/04/2004
+030052,030116,2004,CE-Cessione territorio,UD,030,UD,030,01/04/2004
+030116,030052,2004,AQ-Acquisizione territorio,UD,030,UD,030,01/04/2004
+030116,030052,2004,CE-Cessione territorio,UD,030,UD,030,01/04/2004
+021052,021052,2003,CD-Cambio denominazione,BZ,021,BZ,021,29/10/2003
+071036,071063,2003,CE-Cessione territorio,FG,071,FG,071,03/10/2003
+071063,071036,2003,AQ-Acquisizione territorio,FG,071,FG,071,03/10/2003
+093022,093036,2003,CE-Cessione territorio,PN,093,PN,093,17/04/2003
+093036,093022,2003,AQ-Acquisizione territorio,PN,093,PN,093,17/04/2003
+015027,015250,2003,AQES-Acquisizione per estinzione,MI,015,MI,015,06/03/2003
+015250,015027,2003,ES-Estinzione,MI,015,MI,015,06/03/2003
+013208,013248,2003,ES-Estinzione,CO,013,CO,013,01/01/2003
+013210,013248,2003,ES-Estinzione,CO,013,CO,013,01/01/2003
+013248,013208,2003,CS-Costituzione,CO,013,CO,013,01/01/2003
+013248,013210,2003,CS-Costituzione,CO,013,CO,013,01/01/2003
+015010,015204,2002,AQ-Acquisizione territorio,MI,015,MI,015,26/10/2002
+015204,015010,2002,CE-Cessione territorio,MI,015,MI,015,26/10/2002
+016039,016196,2002,CE-Cessione territorio,BG,016,BG,016,26/10/2002
+016196,016039,2002,AQ-Acquisizione territorio,BG,016,BG,016,26/10/2002
+016196,016246,2002,AQ-Acquisizione territorio,BG,016,BG,016,26/10/2002
+016246,016196,2002,CE-Cessione territorio,BG,016,BG,016,26/10/2002
+017001,017160,2002,AQ-Acquisizione territorio,BS,017,BS,017,26/10/2002
+017040,017163,2002,AQ-Acquisizione territorio,BS,017,BS,017,26/10/2002
+017160,017001,2002,CE-Cessione territorio,BS,017,BS,017,26/10/2002
+017163,017040,2002,CE-Cessione territorio,BS,017,BS,017,26/10/2002
+018053,018181,2002,CE-Cessione territorio,PV,018,PV,018,26/10/2002
+018053,018181,2002,AQ-Acquisizione territorio,PV,018,PV,018,26/10/2002
+018181,018053,2002,AQ-Acquisizione territorio,PV,018,PV,018,26/10/2002
+018181,018053,2002,CE-Cessione territorio,PV,018,PV,018,26/10/2002
+041035,041035,2002,CD-Cambio denominazione,PU,041,PU,041,07/06/2002
+015027,015250,2001,CECS-Cessione territorio per costituzione nuova unità,MI,015,MI,015,12/12/2001
+015250,015027,2001,CS-Costituzione,MI,015,MI,015,12/12/2001
+058047,058122,2001,CECS-Cessione territorio per costituzione nuova unità,RM,058,RM,058,15/10/2001
+058059,058122,2001,CECS-Cessione territorio per costituzione nuova unità,RM,058,RM,058,15/10/2001
+058122,058047,2001,CS-Costituzione,RM,058,RM,058,15/10/2001
+058122,058059,2001,CS-Costituzione,RM,058,RM,058,15/10/2001
+023012,023040,2000,CE-Cessione territorio,VR,023,VR,023,16/07/2000
+023012,023055,2000,CE-Cessione territorio,VR,023,VR,023,16/07/2000
+023040,023012,2000,AQ-Acquisizione territorio,VR,023,VR,023,16/07/2000
+023055,023012,2000,AQ-Acquisizione territorio,VR,023,VR,023,16/07/2000
+017046,017166,2000,AQ-Acquisizione territorio,BS,017,BS,017,14/04/2000
+017166,017046,2000,CE-Cessione territorio,BS,017,BS,017,14/04/2000
+073023,073027,2000,AQ-Acquisizione territorio,TA,073,TA,073,11/02/2000
+073023,073027,2000,CE-Cessione territorio,TA,073,TA,073,11/02/2000
+073027,073023,2000,CE-Cessione territorio,TA,073,TA,073,11/02/2000
+073027,073023,2000,AQ-Acquisizione territorio,TA,073,TA,073,11/02/2000
+001109,001218,2000,AQ-Acquisizione territorio,TO,001,TO,001,01/01/2000
+001218,001109,2000,CE-Cessione territorio,TO,001,TO,001,01/01/2000
+022036,022039,1999,CE-Cessione territorio,TN,022,TN,022,08/12/1999
+022039,022036,1999,AQ-Acquisizione territorio,TN,022,TN,022,08/12/1999
+071049,071049,1999,CD-Cambio denominazione,FG,071,FG,071,22/10/1999
+081003,081003,1999,CD-Cambio denominazione,TP,081,TP,081,20/09/1999
+010043,010060,1999,CE-Cessione territorio,GE,010,GE,010,16/09/1999
+010060,010043,1999,AQ-Acquisizione territorio,GE,010,GE,010,16/09/1999
+014005,014029,1999,CE-Cessione territorio,SO,014,SO,014,27/07/1999
+014005,014029,1999,AQ-Acquisizione territorio,SO,014,SO,014,27/07/1999
+014029,014005,1999,CE-Cessione territorio,SO,014,SO,014,27/07/1999
+014029,014005,1999,AQ-Acquisizione territorio,SO,014,SO,014,27/07/1999
+022050,022196,1999,AQ-Acquisizione territorio,TN,022,TN,022,14/07/1999
+022050,022196,1999,CE-Cessione territorio,TN,022,TN,022,14/07/1999
+022196,022050,1999,AQ-Acquisizione territorio,TN,022,TN,022,14/07/1999
+022196,022050,1999,CE-Cessione territorio,TN,022,TN,022,14/07/1999
+027042,027044,1999,CECS-Cessione territorio per costituzione nuova unità,VE,027,VE,027,02/04/1999
+027044,027042,1999,CS-Costituzione,VE,027,VE,027,02/04/1999
+101002,101006,1999,CE-Cessione territorio,KR,101,KR,101,13/01/1999
+101002,101006,1999,AQ-Acquisizione territorio,KR,101,KR,101,13/01/1999
+101006,101002,1999,CE-Cessione territorio,KR,101,KR,101,13/01/1999
+101006,101002,1999,AQ-Acquisizione territorio,KR,101,KR,101,13/01/1999
+096036,096084,1999,ES-Estinzione,BI,096,BI,096,01/01/1999
+096045,096084,1999,ES-Estinzione,BI,096,BI,096,01/01/1999
+096084,096036,1999,CS-Costituzione,BI,096,BI,096,01/01/1999
+096084,096045,1999,CS-Costituzione,BI,096,BI,096,01/01/1999
+066057,066092,1998,CE-Cessione territorio,AQ,066,AQ,066,09/12/1998
+066092,066057,1998,AQ-Acquisizione territorio,AQ,066,AQ,066,09/12/1998
+022039,025044,1998,AQ-Acquisizione territorio,TN,022,BL,025,23/10/1998
+025044,022039,1998,CE-Cessione territorio,BL,025,TN,022,23/10/1998
+005043,005121,1998,ES-Estinzione,AT,005,AT,005,01/09/1998
+005078,005121,1998,ES-Estinzione,AT,005,AT,005,01/09/1998
+005102,005121,1998,ES-Estinzione,AT,005,AT,005,01/09/1998
+005121,005043,1998,CS-Costituzione,AT,005,AT,005,01/09/1998
+005121,005078,1998,CS-Costituzione,AT,005,AT,005,01/09/1998
+005121,005102,1998,CS-Costituzione,AT,005,AT,005,01/09/1998
+040007,040015,1998,AQ-Acquisizione territorio,FC,040,FC,040,23/05/1998
+040007,040015,1998,CE-Cessione territorio,FC,040,FC,040,23/05/1998
+040015,040007,1998,AQ-Acquisizione territorio,FC,040,FC,040,23/05/1998
+040015,040007,1998,CE-Cessione territorio,FC,040,FC,040,23/05/1998
+015115,018150,1998,CE-Cessione territorio,MI,015,PV,018,19/04/1998
+015115,018150,1998,AQ-Acquisizione territorio,MI,015,PV,018,19/04/1998
+018150,015115,1998,AQ-Acquisizione territorio,PV,018,MI,015,19/04/1998
+018150,015115,1998,CE-Cessione territorio,PV,018,MI,015,19/04/1998
+012069,012100,1997,AQ-Acquisizione territorio,VA,012,VA,012,26/07/1997
+012100,012069,1997,CE-Cessione territorio,VA,012,VA,012,26/07/1997
+015007,015041,1997,CE-Cessione territorio,MI,015,MI,015,26/07/1997
+015007,015041,1997,AQ-Acquisizione territorio,MI,015,MI,015,26/07/1997
+015010,015200,1997,CE-Cessione territorio,MI,015,MI,015,26/07/1997
+015041,015007,1997,AQ-Acquisizione territorio,MI,015,MI,015,26/07/1997
+015041,015007,1997,CE-Cessione territorio,MI,015,MI,015,26/07/1997
+015146,015209,1997,AQ-Acquisizione territorio,MI,015,MI,015,26/07/1997
+015200,015010,1997,AQ-Acquisizione territorio,MI,015,MI,015,26/07/1997
+015209,015146,1997,CE-Cessione territorio,MI,015,MI,015,26/07/1997
+098029,098054,1997,AQ-Acquisizione territorio,LO,098,LO,098,26/07/1997
+098029,098054,1997,CE-Cessione territorio,LO,098,LO,098,26/07/1997
+098054,098029,1997,AQ-Acquisizione territorio,LO,098,LO,098,26/07/1997
+098054,098029,1997,CE-Cessione territorio,LO,098,LO,098,26/07/1997
+091013,091049,1997,CE-Cessione territorio,NU,091,NU,091,07/02/1997
+091049,091013,1997,AQ-Acquisizione territorio,NU,091,NU,091,07/02/1997
+028014,028068,1996,CE-Cessione territorio,PD,028,PD,028,07/12/1996
+028068,028014,1996,AQ-Acquisizione territorio,PD,028,PD,028,07/12/1996
+023012,023040,1996,AQ-Acquisizione territorio,VR,023,VR,023,01/09/1996
+023012,023055,1996,AQ-Acquisizione territorio,VR,023,VR,023,01/09/1996
+023040,023012,1996,CE-Cessione territorio,VR,023,VR,023,01/09/1996
+023055,023012,1996,CE-Cessione territorio,VR,023,VR,023,01/09/1996
+090044,090044,1996,CD-Cambio denominazione,SS,090,SS,090,13/08/1996
+001206,001287,1996,AQ-Acquisizione territorio,TO,001,TO,001,01/03/1996
+001287,001206,1996,CE-Cessione territorio,TO,001,TO,001,01/03/1996
+022153,022191,1996,CE-Cessione territorio,TN,022,TN,022,14/02/1996
+022191,022153,1996,AQ-Acquisizione territorio,TN,022,TN,022,14/02/1996
+090017,090090,1996,CECS-Cessione territorio per costituzione nuova unità,SS,090,SS,090,24/01/1996
+090090,090017,1996,CS-Costituzione,SS,090,SS,090,24/01/1996
+058057,058121,1995,AQES-Acquisizione per estinzione,RM,058,RM,058,21/09/1995
+058121,058057,1995,ES-Estinzione,RM,058,RM,058,21/09/1995
+021056,021064,1995,CE-Cessione territorio,BZ,021,BZ,021,31/08/1995
+021064,021056,1995,AQ-Acquisizione territorio,BZ,021,BZ,021,31/08/1995
+015015,015115,1995,CE-Cessione territorio,MI,015,MI,015,05/05/1995
+015015,015115,1995,AQ-Acquisizione territorio,MI,015,MI,015,05/05/1995
+015115,015015,1995,AQ-Acquisizione territorio,MI,015,MI,015,05/05/1995
+015115,015015,1995,CE-Cessione territorio,MI,015,MI,015,05/05/1995
+015139,015171,1995,CE-Cessione territorio,MI,015,MI,015,05/05/1995
+015139,015171,1995,AQ-Acquisizione territorio,MI,015,MI,015,05/05/1995
+015171,015139,1995,AQ-Acquisizione territorio,MI,015,MI,015,05/05/1995
+015171,015139,1995,CE-Cessione territorio,MI,015,MI,015,05/05/1995
+017127,017136,1995,AQ-Acquisizione territorio,BS,017,BS,017,05/05/1995
+017136,017127,1995,CE-Cessione territorio,BS,017,BS,017,05/05/1995
+005001,005001,1995,CD-Cambio denominazione,AT,005,AT,005,27/04/1995
+028024,028106,1995,ES-Estinzione,PD,028,PD,028,24/03/1995
+028025,028106,1995,ES-Estinzione,PD,028,PD,028,24/03/1995
+028106,028024,1995,CS-Costituzione,PD,028,PD,028,24/03/1995
+028106,028025,1995,CS-Costituzione,PD,028,PD,028,24/03/1995
+002001,096001,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002005,096002,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002010,096003,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002012,096004,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002013,096005,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002018,096006,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002020,096007,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002022,096008,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002023,096009,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002024,096010,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002026,096011,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002027,096012,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002028,096013,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002034,096014,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002036,096015,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002037,096016,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002039,096017,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002040,096018,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002044,096019,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002046,096020,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002050,096021,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002051,096022,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002053,096023,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002055,096024,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002056,096025,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002060,096026,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002063,096027,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002064,096028,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002069,096029,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002073,096030,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002074,096031,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002075,096032,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002076,096033,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002077,096034,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002080,096035,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002081,096036,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002083,096037,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002084,096038,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002085,096039,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002086,096040,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002087,096041,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002092,096042,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002094,096043,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002095,096044,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002098,096045,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002099,096046,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002100,096047,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002101,096048,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002103,096049,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002105,096050,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002106,096051,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002109,096052,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002117,096053,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002119,096054,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002120,096055,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002124,096056,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002125,096057,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002129,096058,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002130,096059,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002132,096060,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002136,096061,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002138,096062,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002139,096063,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002140,096064,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002141,096065,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002143,096066,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002144,096067,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002145,096068,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002146,096069,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002149,096070,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002151,096071,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002153,096072,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002154,096073,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002155,096074,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002157,096075,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002159,096076,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002160,096077,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002161,096078,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002162,096079,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002165,096080,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002167,096081,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002168,096082,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+002169,096083,1995,AP-Cambio appartenenza Provincia,VC,002,BI,096,01/01/1995
+003003,103001,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003004,103002,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003005,103003,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003007,103004,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003009,103005,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003010,103006,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003011,103007,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003013,103008,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003014,103009,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003015,103010,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003017,103011,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003020,103012,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003028,103013,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003029,103014,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003031,103015,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003033,103016,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003034,103017,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003035,103018,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003038,103019,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003046,103020,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003048,103021,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003050,103022,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003053,103023,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003054,103024,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003056,103025,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003057,103026,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003059,103027,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003061,103028,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003063,103029,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003064,103030,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003067,103031,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003072,103032,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003074,103033,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003075,103034,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003078,103035,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003080,103036,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003081,103037,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003085,103038,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003086,103039,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003087,103040,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003089,103041,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003092,103042,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003094,103043,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003096,103044,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003099,103045,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003101,103046,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003102,103047,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003105,103048,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003107,103049,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003110,103050,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003111,103051,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003113,103052,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003117,103053,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003118,103054,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003123,103055,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003124,103056,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003125,103057,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003126,103058,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003127,103059,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003128,103060,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003132,103061,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003136,103062,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003137,103063,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003142,103064,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003145,103065,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003147,103066,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003148,103067,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003150,103068,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003151,103069,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003152,103070,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003155,103071,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003156,103072,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003160,103073,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003161,103074,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003162,103075,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003163,103076,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+003165,103077,1995,AP-Cambio appartenenza Provincia,NO,003,VB,103,01/01/1995
+013001,097001,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013002,097002,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013008,097003,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013014,097004,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013016,097005,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013017,097006,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013018,097007,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013020,097008,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013027,097009,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013031,097010,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013033,097011,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013039,097012,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013049,097015,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013051,097016,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013054,097017,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013056,097018,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013057,097019,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013066,097020,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013067,097021,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013069,097022,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013072,097023,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013073,097024,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013078,097025,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013079,097026,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013080,097027,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013081,097028,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013082,097029,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013086,097030,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013088,097031,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013091,097032,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013094,097033,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013096,097035,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013103,097036,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013104,097037,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013105,097038,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013115,097039,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013116,097040,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013117,097041,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013124,097042,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013127,097043,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013132,097044,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013140,097045,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013141,097046,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013142,097047,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013146,097048,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013149,097049,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013150,097050,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013151,097051,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013156,097054,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013158,097055,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013162,097056,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013164,097057,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013166,097058,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013167,097059,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013168,097060,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013171,097061,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013173,097062,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013174,097063,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013176,097064,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013177,097065,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013180,097066,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013181,097067,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013182,097068,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013190,097069,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013191,097070,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013196,097071,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013198,097072,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013200,097073,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013209,097074,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013213,097075,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013214,097076,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013219,097077,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013220,097078,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013221,097079,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013224,097081,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013230,097082,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013231,097083,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013235,097084,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013237,097085,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013240,097087,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013241,097088,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013243,097089,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013244,097090,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+013247,097053,1995,AP-Cambio appartenenza Provincia,CO,013,LC,097,01/01/1995
+015001,098001,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015020,098002,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015025,098003,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015028,098004,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015029,098005,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015031,098006,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015043,098007,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015052,098008,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015053,098009,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015054,098010,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015056,098011,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015057,098012,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015063,098013,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015064,098014,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015065,098015,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015066,098016,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015067,098017,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015073,098018,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015079,098019,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015083,098020,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015089,098021,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015090,098022,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015091,098023,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015094,098024,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015095,098025,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015102,098026,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015104,098027,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015109,098028,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015111,098029,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015124,098030,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015126,098031,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015127,098032,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015128,098033,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015132,098034,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015133,098035,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015135,098036,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015137,098037,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015141,098038,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015143,098039,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015148,098040,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015153,098041,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015160,098042,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015162,098043,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015163,098044,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015174,098045,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015190,098046,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015193,098047,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015196,098048,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015197,098049,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015198,098050,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015199,098051,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015203,098052,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015207,098053,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015214,098054,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015215,098055,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015218,098057,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015225,098058,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015228,098059,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015238,098060,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015240,098056,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+015245,098061,1995,AP-Cambio appartenenza Provincia,MI,015,LO,098,01/01/1995
+016045,097013,1995,AP-Cambio appartenenza Provincia,BG,016,LC,097,01/01/1995
+016054,097014,1995,AP-Cambio appartenenza Provincia,BG,016,LC,097,01/01/1995
+016095,097034,1995,AP-Cambio appartenenza Provincia,BG,016,LC,097,01/01/1995
+016138,097052,1995,AP-Cambio appartenenza Provincia,BG,016,LC,097,01/01/1995
+016215,097080,1995,AP-Cambio appartenenza Provincia,BG,016,LC,097,01/01/1995
+016231,097086,1995,AP-Cambio appartenenza Provincia,BG,016,LC,097,01/01/1995
+029016,029052,1995,ES-Estinzione,RO,029,RO,029,01/01/1995
+029020,029052,1995,ES-Estinzione,RO,029,RO,029,01/01/1995
+029052,029016,1995,CS-Costituzione,RO,029,RO,029,01/01/1995
+029052,029020,1995,CS-Costituzione,RO,029,RO,029,01/01/1995
+040002,099001,1995,AP-Cambio appartenenza Provincia,FC,040,RN,099,01/01/1995
+040006,099002,1995,AP-Cambio appartenenza Provincia,FC,040,RN,099,01/01/1995
+040010,099003,1995,AP-Cambio appartenenza Provincia,FC,040,RN,099,01/01/1995
+040017,099004,1995,AP-Cambio appartenenza Provincia,FC,040,RN,099,01/01/1995
+040021,099005,1995,AP-Cambio appartenenza Provincia,FC,040,RN,099,01/01/1995
+040023,099006,1995,AP-Cambio appartenenza Provincia,FC,040,RN,099,01/01/1995
+040024,099007,1995,AP-Cambio appartenenza Provincia,FC,040,RN,099,01/01/1995
+040025,099008,1995,AP-Cambio appartenenza Provincia,FC,040,RN,099,01/01/1995
+040026,099009,1995,AP-Cambio appartenenza Provincia,FC,040,RN,099,01/01/1995
+040027,099010,1995,AP-Cambio appartenenza Provincia,FC,040,RN,099,01/01/1995
+040029,099011,1995,AP-Cambio appartenenza Provincia,FC,040,RN,099,01/01/1995
+040030,099012,1995,AP-Cambio appartenenza Provincia,FC,040,RN,099,01/01/1995
+040034,099013,1995,AP-Cambio appartenenza Provincia,FC,040,RN,099,01/01/1995
+040035,099014,1995,AP-Cambio appartenenza Provincia,FC,040,RN,099,01/01/1995
+040038,099015,1995,AP-Cambio appartenenza Provincia,FC,040,RN,099,01/01/1995
+040039,099016,1995,AP-Cambio appartenenza Provincia,FC,040,RN,099,01/01/1995
+040040,099017,1995,AP-Cambio appartenenza Provincia,FC,040,RN,099,01/01/1995
+040042,099018,1995,AP-Cambio appartenenza Provincia,FC,040,RN,099,01/01/1995
+040048,099019,1995,AP-Cambio appartenenza Provincia,FC,040,RN,099,01/01/1995
+040051,099020,1995,AP-Cambio appartenenza Provincia,FC,040,RN,099,01/01/1995
+048007,100001,1995,AP-Cambio appartenenza Provincia,FI,048,PO,100,01/01/1995
+048009,100002,1995,AP-Cambio appartenenza Provincia,FI,048,PO,100,01/01/1995
+048029,100003,1995,AP-Cambio appartenenza Provincia,FI,048,PO,100,01/01/1995
+048034,100005,1995,AP-Cambio appartenenza Provincia,FI,048,PO,100,01/01/1995
+048047,100006,1995,AP-Cambio appartenenza Provincia,FI,048,PO,100,01/01/1995
+048048,100007,1995,AP-Cambio appartenenza Provincia,FI,048,PO,100,01/01/1995
+048051,100004,1995,AP-Cambio appartenenza Provincia,FI,048,PO,100,01/01/1995
+079001,102001,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079006,102002,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079010,101001,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079013,102003,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079014,102004,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079015,101002,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079016,102005,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079019,101003,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079021,101004,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079022,101005,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079026,101006,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079028,102006,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079031,101007,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079032,101008,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079035,101009,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079037,101010,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079038,101011,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079040,101012,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079041,102007,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079044,102008,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079045,102009,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079046,102010,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079049,102011,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079050,102012,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079051,102013,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079053,102014,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079054,102015,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079057,102016,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079062,102017,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079064,101013,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079066,102018,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079067,102019,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079070,102020,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079075,101014,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079076,101015,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079078,102021,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079079,102022,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079082,102023,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079084,102024,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079086,102025,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079090,101016,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079091,102026,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079093,101017,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079097,102027,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079098,102028,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079100,102029,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079101,102030,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079102,101018,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079103,101019,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079104,102031,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079106,102032,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079107,102033,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079109,102034,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079111,101020,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079112,102035,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079113,101021,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079119,101022,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079121,102036,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079124,101023,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079125,101024,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079128,102037,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079132,102038,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079135,102039,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079136,102040,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079140,102041,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079141,102042,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079144,102043,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079145,101025,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079149,102044,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079150,101026,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079152,102045,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079153,102046,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079154,101027,1995,AP-Cambio appartenenza Provincia,CZ,079,KR,101,01/01/1995
+079155,102047,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079156,102048,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079158,102049,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+079159,102050,1995,AP-Cambio appartenenza Provincia,CZ,079,VV,102,01/01/1995
+006037,006047,1994,AQ-Acquisizione territorio,AL,006,AL,006,14/12/1994
+006047,006037,1994,CE-Cessione territorio,AL,006,AL,006,14/12/1994
+005035,005086,1994,AQ-Acquisizione territorio,AT,005,AT,005,28/07/1994
+005086,005035,1994,CE-Cessione territorio,AT,005,AT,005,28/07/1994
+071030,072007,1994,CE-Cessione territorio,FG,071,BA,072,01/01/1994
+071030,072007,1994,AQ-Acquisizione territorio,FG,071,BA,072,01/01/1994
+071057,072007,1994,AQ-Acquisizione territorio,FG,071,BA,072,01/01/1994
+071057,072007,1994,CE-Cessione territorio,FG,071,BA,072,01/01/1994
+072007,071030,1994,CE-Cessione territorio,BA,072,FG,071,01/01/1994
+072007,071030,1994,AQ-Acquisizione territorio,BA,072,FG,071,01/01/1994
+072007,071057,1994,CE-Cessione territorio,BA,072,FG,071,01/01/1994
+072007,071057,1994,AQ-Acquisizione territorio,BA,072,FG,071,01/01/1994
+073027,073029,1994,CECS-Cessione territorio per costituzione nuova unità,TA,073,TA,073,01/01/1994
+073029,073027,1994,CS-Costituzione,TA,073,TA,073,01/01/1994
+058057,058121,1993,CECS-Cessione territorio per costituzione nuova unità,RM,058,RM,058,05/11/1993
+058121,058057,1993,CS-Costituzione,RM,058,RM,058,05/11/1993
+028011,028061,1993,AQ-Acquisizione territorio,PD,028,PD,028,14/07/1993
+028061,028011,1993,CE-Cessione territorio,PD,028,PD,028,14/07/1993
+021035,021066,1993,AQ-Acquisizione territorio,BZ,021,BZ,021,14/04/1993
+021066,021035,1993,CE-Cessione territorio,BZ,021,BZ,021,14/04/1993
+022091,022091,1993,CD-Cambio denominazione,TN,022,TN,022,14/04/1993
+059004,059026,1992,CE-Cessione territorio,LT,059,LT,059,01/09/1992
+059026,059004,1992,AQ-Acquisizione territorio,LT,059,LT,059,01/09/1992
+062074,062074,1992,CD-Cambio denominazione,BN,062,BN,062,28/07/1992
+058091,058120,1992,CECS-Cessione territorio per costituzione nuova unità,RM,058,RM,058,04/04/1992
+058120,058091,1992,CS-Costituzione,RM,058,RM,058,04/04/1992
+035006,035029,1992,CE-Cessione territorio,RE,035,RE,035,30/01/1992
+035006,035029,1992,AQ-Acquisizione territorio,RE,035,RE,035,30/01/1992
+035029,035006,1992,CE-Cessione territorio,RE,035,RE,035,30/01/1992
+035029,035006,1992,AQ-Acquisizione territorio,RE,035,RE,035,30/01/1992
+092009,092109,1991,CECS-Cessione territorio per costituzione nuova unità,CA,092,CA,092,10/12/1991
+092109,092009,1991,CS-Costituzione,CA,092,CA,092,10/12/1991
+007064,007064,1991,CD-Cambio denominazione,AO,007,AO,007,21/08/1991
+095037,095037,1991,CD-Cambio denominazione,OR,095,OR,095,10/07/1991
+035018,035018,1991,CD-Cambio denominazione,RE,035,RE,035,18/06/1991
+047012,047021,1991,CE-Cessione territorio,PT,047,PT,047,15/05/1991
+047021,047012,1991,AQ-Acquisizione territorio,PT,047,PT,047,15/05/1991
+070071,070071,1991,CD-Cambio denominazione,CB,070,CB,070,01/05/1991
